@@ -1,0 +1,28 @@
+/*comment*/
+/*google fonts, choose one and quick use, copy paste the "import" at top of page,
+and then copy paste font family in the specific { }*/
+
+@import url(https://fonts.googleapis.com/css?family=Lora);
+
+body {
+    margin: 0;
+}
+
+h1 {
+    color: red;
+    font-family: 'Lora', serif;
+}
+
+
+.one {
+    color: blue;
+}
+
+.box {
+    background-color: yellow;
+    width: 400px;
+    margin: 0 auto; /*auto to kedrarei kai 0px einai to panw-epomenos kollaei sto parathyro-, alios exo 4 values kai paei apo panw eos aristera*/
+    border: 3px solid pink;
+    padding: 50px;
+    text-align: center;
+}
