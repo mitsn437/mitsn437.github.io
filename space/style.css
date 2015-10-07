@@ -1,0 +1,207 @@
+.sometext {
+    position: absolute;
+    top: 20px;
+    left: 90px; /*edo vazw px giati prepei na einai statheri i apostasi metaksy tou text kai tis photo*/
+    width: 200px;
+    display: none;
+    vertical-align: top;
+    color: rgb(255,123,172);
+    font-family: Futura;
+}
+
+
+
+
+.blah {
+    position: absolute;
+    top: 3%;
+    left: 10%;
+ 
+ /*me to "%" tote kanei scale, diladi allazei thesi
+ opos allazei to megethos tou parathyrou.*/
+    
+}
+
+.blah:hover .sometext {
+    display: block;
+}
+
+
+
+.blah2 {
+    position: absolute;
+    top: 30%;
+    left: 23%;
+
+    
+}
+
+.blah2:hover .sometext {
+    display: block;
+}
+
+
+
+.blah3 {
+    position: absolute;
+    top: 55%;
+    left: 40%;
+
+    
+}
+
+.blah3:hover .sometext {
+    display: block;
+}
+
+
+
+.blah4 {
+    position: absolute;
+    top: 10%;
+    left: 47%;
+
+    
+}
+
+.blah4:hover .sometext {
+    display: block;
+}
+
+
+
+.blah5 {
+    position: absolute;
+    top: 85%;
+    left: 20%;
+
+    
+}
+
+.blah5:hover .sometext {
+    display: block;
+}
+
+
+
+.blah6 {
+    position: absolute;
+    top: 80%;
+    left: 50%;
+
+    
+}
+
+.blah6:hover .sometext {
+    display: block;
+}
+
+
+
+.blah7 {
+    position: absolute;
+    top: 5%;
+    left: 85%;
+
+    
+}
+
+.blah7:hover .sometext {
+    display: block;
+}
+
+
+
+.blah8 {
+    position: absolute;
+    top: 70%;
+    left: 87%;
+
+    
+}
+
+.blah8:hover .sometext {
+    display: block;
+}
+
+
+
+.blah9 {
+    position: absolute;
+    top: 40%;
+    left: 60%;
+
+    
+}
+
+.blah9:hover .sometext {
+    display: block;
+}
+
+
+
+.blah10 {
+    position: absolute;
+    top: 35%;
+    left: 80%;
+
+    
+}
+
+.blah10:hover .sometext {
+    display: block;
+}
+
+
+
+.blah11 {
+    position: absolute;
+    top: 85%;
+    left: 72%;
+
+    
+}
+
+.blah11:hover .sometext {
+    display: block;
+}
+
+
+
+.blah12 {
+    position: absolute;
+    top: 60%;
+    left: 8%;
+
+    
+}
+
+.blah12:hover .sometext {
+    display: block;
+}
+
+
+
+
+/*Gia tous titlous stis selides ton images*/
+.sometext2 {
+    position: absolute;
+   /* top: 0px; */
+    bottom: 0px;
+    left: 520px;
+    width: 200px;
+    display: block;
+    vertical-align: top;
+    color: rgb(255,123,172);
+    font-family: Futura;
+    font-size: 800%
+}
+
+
+
+.image {
+    position: absolute;
+    top: 1%;
+    left: 1%;
+ 
+}
