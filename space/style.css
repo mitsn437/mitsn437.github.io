@@ -26,6 +26,11 @@
     display: block;
 }
 
+.blah:hover .sometext3 {
+    display: block;
+}
+
+
 
 
 .blah2 {
@@ -39,6 +44,11 @@
 .blah2:hover .sometext {
     display: block;
 }
+
+.blah2:hover .sometext3 {
+    display: block;
+}
+
 
 
 
@@ -54,6 +64,11 @@
     display: block;
 }
 
+.blah3:hover .sometext3 {
+    display: block;
+}
+
+
 
 
 .blah4 {
@@ -67,6 +82,11 @@
 .blah4:hover .sometext {
     display: block;
 }
+
+.blah4:hover .sometext3 {
+    display: block;
+}
+
 
 
 
@@ -82,6 +102,11 @@
     display: block;
 }
 
+.blah5:hover .sometext3 {
+    display: block;
+}
+
+
 
 
 .blah6 {
@@ -95,6 +120,11 @@
 .blah6:hover .sometext {
     display: block;
 }
+
+.blah6:hover .sometext3 {
+    display: block;
+}
+
 
 
 
@@ -110,12 +140,17 @@
     display: block;
 }
 
+.blah7:hover .sometext3 {
+    display: block;
+}
+
+
 
 
 .blah8 {
     position: absolute;
-    top: 70%;
-    left: 87%;
+    top: 65%;
+    left: 83%;
 
     
 }
@@ -123,6 +158,11 @@
 .blah8:hover .sometext {
     display: block;
 }
+
+.blah8:hover .sometext3 {
+    display: block;
+}
+
 
 
 
@@ -138,6 +178,11 @@
     display: block;
 }
 
+.blah9:hover .sometext3 {
+    display: block;
+}
+
+
 
 
 .blah10 {
@@ -152,11 +197,16 @@
     display: block;
 }
 
+.blah10:hover .sometext3 {
+    display: block;
+}
+
+
 
 
 .blah11 {
     position: absolute;
-    top: 85%;
+    top: 83%;
     left: 72%;
 
     
@@ -165,6 +215,11 @@
 .blah11:hover .sometext {
     display: block;
 }
+
+.blah11:hover .sometext3 {
+    display: block;
+}
+
 
 
 
@@ -179,6 +234,11 @@
 .blah12:hover .sometext {
     display: block;
 }
+
+.blah12:hover .sometext3 {
+    display: block;
+}
+
 
 
 
@@ -221,4 +281,18 @@
     color: rgb(0,0,0);
     font-family: Futura;
     font-size: 300%
+}
+
+
+
+.sometext3 {
+    position: absolute;
+    top: 40px;
+    left: 90px; /*edo vazw px giati prepei na einai statheri i apostasi metaksy tou text kai tis photo*/
+    width: 150px;
+    display: none;
+    vertical-align: top;
+    color: rgb(255,255,255);
+    font-family: Futura;
+    font-style: italic;
 }
