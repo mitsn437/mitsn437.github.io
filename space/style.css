@@ -194,7 +194,7 @@
     vertical-align: top;
     color: rgb(255,123,172);
     font-family: Futura;
-    font-size: 800%
+    font-size: 500%
 }
 
 
@@ -204,4 +204,21 @@
     top: 1%;
     left: 1%;
  
+}
+
+
+
+.hidden {
+    opacity: 0;
+}
+
+
+
+.close {
+    position: absolute;
+    top: 5px;
+    right: 15px;
+    color: rgb(0,0,0);
+    font-family: Futura;
+    font-size: 300%
 }
