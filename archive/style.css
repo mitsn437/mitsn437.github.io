@@ -1,0 +1,142 @@
+background {
+    color: black;
+}
+
+
+.container {
+    margin: 0 auto;
+    width: 700px;
+    text-align: center;
+}
+
+
+img {
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 40px;
+}
+
+
+.sometext {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 200px;
+    display: none;
+    vertical-align: top;
+    color: rgb(0,0,0);
+    font-family: Futura;
+}
+
+.parent {
+    margin: 0 auto;
+    position: relative;
+}
+
+
+.jang {
+    width: 20px;
+}
+
+.jang:hover .sometext {
+    display: block;
+}
+
+
+.laurat {
+    width: 40px;
+}
+
+.laurat:hover .sometext {
+    display: block;
+}
+
+
+.perla {
+    width: 60px;
+}
+
+.perla:hover .sometext {
+    display: block;
+}
+
+
+.carlos {
+    width: 80px;
+}
+
+.carlos:hover .sometext {
+    display: block;
+}
+
+
+.clarissa {
+    width: 100px;
+}
+
+.clarissa:hover .sometext {
+    display: block;
+}
+
+
+.junlu {
+    width: 120px;
+}
+
+.junlu:hover .sometext {
+    display: block;
+}
+
+
+.tzu {
+    width: 140px;
+}
+
+.tzu:hover .sometext {
+    display: block;
+}
+
+
+.nicole {
+    width:160px;
+}
+
+.nicole:hover .sometext {
+    display: block;
+}
+
+
+.mrinal {
+    width: 180px;
+}
+
+.mrinal:hover .sometext {
+    display: block;
+}
+
+
+.lauram {
+    width: 200px;
+}
+
+.lauram:hover .sometext {
+    display: block;
+}
+
+
+.young {
+    width: 220px;
+}
+
+.young:hover .sometext {
+    display: block;
+}
+
+
+.pedro {
+    width: 240px;
+}
+
+.pedro:hover .sometext {
+    display: block;
+}
