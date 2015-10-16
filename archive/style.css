@@ -7,7 +7,7 @@ background {
     margin: 0 auto;
     width: 700px;
     text-align: center;
-    background-color: #000;
+    /*background-color: #000;*/
 }
 
 
@@ -21,13 +21,170 @@ img {
 .sometext {
     position: absolute;
     top: 0;
-    left: 0;
+    left: 250;
     width: 200px;
     display: none;
     vertical-align: top;
     color: rgb(0,0,0);
     font-family: Futura;
 }
+
+
+.sometext2 {
+    position: absolute;
+    top: 0;
+    right: 220;
+    width: 200px;
+    display: none;
+    vertical-align: top;
+    color: rgb(255,0,0);
+    font-family: Futura;
+    font-size: 15px;
+}
+
+
+.sometext3 {
+    position: absolute;
+    top: 0;
+    right: 230;
+    width: 200px;
+    display: none;
+    vertical-align: top;
+    color: rgb(255,0,0);
+    font-family: Futura;
+    font-size: 25px;
+}
+
+
+.sometext4 {
+    position: absolute;
+    top: 0;
+    right: 240;
+    width: 200px;
+    display: none;
+    vertical-align: top;
+    color: rgb(255,0,0);
+    font-family: Futura;
+    font-size: 35px;
+}
+
+
+.sometext5 {
+    position: absolute;
+    top: 0;
+    right: 250;
+    width: 200px;
+    display: none;
+    vertical-align: top;
+    color: rgb(255,0,0);
+    font-family: Futura;
+    font-size: 45px;
+}
+
+
+.sometext6 {
+    position: absolute;
+    top: 0;
+    right: 260;
+    width: 200px;
+    display: none;
+    vertical-align: top;
+    color: rgb(255,0,0);
+    font-family: Futura;
+    font-size: 55px;
+}
+
+
+.sometext7 {
+    position: absolute;
+    top: 0;
+    right: 270;
+    width: 200px;
+    display: none;
+    vertical-align: top;
+    color: rgb(255,0,0);
+    font-family: Futura;
+    font-size: 65px;
+}
+
+
+.sometext8 {
+    position: absolute;
+    top: 0;
+    right: 280;
+    width: 200px;
+    display: none;
+    vertical-align: top;
+    color: rgb(255,0,0);
+    font-family: Futura;
+    font-size: 75px;
+}
+
+
+.sometext9 {
+    position: absolute;
+    top: 0;
+    right: 290;
+    width: 200px;
+    display: none;
+    vertical-align: top;
+    color: rgb(255,0,0);
+    font-family: Futura;
+    font-size: 85px;
+}
+
+
+.sometext10 {
+    position: absolute;
+    top: 0;
+    right: 300;
+    width: 200px;
+    display: none;
+    vertical-align: top;
+    color: rgb(255,0,0);
+    font-family: Futura;
+    font-size: 95px;
+}
+
+
+.sometext11 {
+    position: absolute;
+    top: 0;
+    right: 310;
+    width: 200px;
+    display: none;
+    vertical-align: top;
+    color: rgb(255,0,0);
+    font-family: Futura;
+    font-size: 105px;
+}
+
+
+.sometext12 {
+    position: absolute;
+    top: 0;
+    right: 320;
+    width: 200px;
+    display: none;
+    vertical-align: top;
+    color: rgb(255,0,0);
+    font-family: Futura;
+    font-size: 115px;
+}
+
+
+.sometext13 {
+    position: absolute;
+    top: 0;
+    right: 350;
+    width: 200px;
+    display: none;
+    vertical-align: top;
+    color: rgb(255,0,0);
+    font-family: Futura;
+    font-size: 125px;
+}
+
 
 .parent {
     margin: 0 auto;
@@ -43,12 +200,20 @@ img {
     display: block;
 }
 
+.jang:hover .sometext2 {
+    display: block;
+}
+
 
 .laurat {
     width: 40px;
 }
 
 .laurat:hover .sometext {
+    display: block;
+}
+
+.laurat:hover .sometext3 {
     display: block;
 }
 
@@ -61,12 +226,20 @@ img {
     display: block;
 }
 
+.perla:hover .sometext4 {
+    display: block;
+}
+
 
 .carlos {
     width: 80px;
 }
 
 .carlos:hover .sometext {
+    display: block;
+}
+
+.carlos:hover .sometext5 {
     display: block;
 }
 
@@ -79,12 +252,20 @@ img {
     display: block;
 }
 
+.clarissa:hover .sometext6 {
+    display: block;
+}
+
 
 .junlu {
     width: 120px;
 }
 
 .junlu:hover .sometext {
+    display: block;
+}
+
+.junlu:hover .sometext7 {
     display: block;
 }
 
@@ -97,12 +278,20 @@ img {
     display: block;
 }
 
+.tzu:hover .sometext8 {
+    display: block;
+}
+
 
 .nicole {
     width:160px;
 }
 
 .nicole:hover .sometext {
+    display: block;
+}
+
+.nicole:hover .sometext9 {
     display: block;
 }
 
@@ -115,12 +304,20 @@ img {
     display: block;
 }
 
+.mrinal:hover .sometext10 {
+    display: block;
+}
+
 
 .lauram {
     width: 200px;
 }
 
 .lauram:hover .sometext {
+    display: block;
+}
+
+.lauram:hover .sometext11 {
     display: block;
 }
 
@@ -133,11 +330,19 @@ img {
     display: block;
 }
 
+.young:hover .sometext12 {
+    display: block;
+}
+
 
 .pedro {
     width: 240px;
 }
 
 .pedro:hover .sometext {
+    display: block;
+}
+
+.pedro:hover .sometext13 {
     display: block;
 }
