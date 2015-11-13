@@ -76,7 +76,7 @@ $("#buttonDiv").click(function() {
 	// this is why the random number for the randomized words is called something different from the other randomized number that you're using for the images.
 	// does that make sense?
 	// let's call it "RandomNumber2"
-	var RandomNumber2 = Math.round(Math.random() * 7 );
+	var RandomNumber2 = Math.ceil(Math.random() * 7 );
 	// this way, we will get a different random number with RandomNumber2
 
 	// not sure what you're doing next... you can't play audio with css...
@@ -91,98 +91,17 @@ $("#buttonDiv").click(function() {
 	// you could randomize these in a few ways...
 	// for instance, you would need to give all of the sounds an ID of "sound1", then "sound2", then "sound3", etc. etc. 
 	// then, you could just write:
+	$('audio').each(function(){
+    this.pause(); // Stop playing
+    this.currentTime = 0; // Reset time
+}); 
+    console.log("sound" + RandomNumber2);
+
 	 document.getElementById("sound" + RandomNumber2).play();
 	// hope this helps...
 	
 	//document.getElementById("sound1").pause()
 	
-	if (RandomNumber2 == 1) {
-    // pause everything that isn't sound 1
-    document.getElementById("sound2").pause();
-    document.getElementById("sound3").pause();
-    document.getElementById("sound4").pause();
-    document.getElementById("sound5").pause();
-    document.getElementById("sound6").pause();
-    document.getElementById("sound7").pause();
-    document.getElementById("sound8").pause();
-}
-
-	if (RandomNumber2 == 2) {
-    // pause everything that isn't sound 2
-    document.getElementById("sound1").pause();
-    document.getElementById("sound3").pause();
-    document.getElementById("sound4").pause();
-    document.getElementById("sound5").pause();
-    document.getElementById("sound6").pause();
-    document.getElementById("sound7").pause();
-    document.getElementById("sound8").pause();
-}
-
-	if (RandomNumber2 == 3) {
-    // pause everything that isn't sound 2
-    document.getElementById("sound1").pause();
-    document.getElementById("sound2").pause();
-    document.getElementById("sound4").pause();
-    document.getElementById("sound5").pause();
-    document.getElementById("sound6").pause();
-    document.getElementById("sound7").pause();
-    document.getElementById("sound8").pause();
-}
-
-	if (RandomNumber2 == 4) {
-    // pause everything that isn't sound 2
-    document.getElementById("sound1").pause();
-    document.getElementById("sound2").pause();
-    document.getElementById("sound3").pause();
-    document.getElementById("sound5").pause();
-    document.getElementById("sound6").pause();
-    document.getElementById("sound7").pause();
-    document.getElementById("sound8").pause();
-}
-
-	if (RandomNumber2 == 5) {
-    // pause everything that isn't sound 2
-    document.getElementById("sound1").pause();
-    document.getElementById("sound2").pause();
-    document.getElementById("sound3").pause();
-    document.getElementById("sound4").pause();
-    document.getElementById("sound6").pause();
-    document.getElementById("sound7").pause();
-    document.getElementById("sound8").pause();
-}
-
-	if (RandomNumber2 == 6) {
-    // pause everything that isn't sound 2
-    document.getElementById("sound1").pause();
-    document.getElementById("sound2").pause();
-    document.getElementById("sound3").pause();
-    document.getElementById("sound4").pause();
-    document.getElementById("sound5").pause();
-    document.getElementById("sound7").pause();
-    document.getElementById("sound8").pause();
-}
-
-	if (RandomNumber2 == 7) {
-    // pause everything that isn't sound 2
-    document.getElementById("sound1").pause();
-    document.getElementById("sound2").pause();
-    document.getElementById("sound3").pause();
-    document.getElementById("sound4").pause();
-    document.getElementById("sound5").pause();
-    document.getElementById("sound6").pause();
-    document.getElementById("sound8").pause();
-}
-
-	if (RandomNumber2 == 8) {
-    // pause everything that isn't sound 2
-    document.getElementById("sound1").pause();
-    document.getElementById("sound2").pause();
-    document.getElementById("sound3").pause();
-    document.getElementById("sound4").pause();
-    document.getElementById("sound5").pause();
-    document.getElementById("sound6").pause();
-    document.getElementById("sound7").pause();
-}
 	
     
 });

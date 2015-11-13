@@ -76,4 +76,33 @@ for (var myPoem = 0; myPoem < 5; myPoem++) {
 
 
 
+//NEW
 
+$(window).resize(function(event) {
+  console.log($(window).width());
+  console.log($(window).height());
+})
+
+
+$(window).mousemove(function(event) {
+  var newTop = event.clientX = "px";
+  var newLeft = event.clientY = "px";
+  $(".ball").css("top",newTop);
+  $(".ball").css("left",newLeft);
+});
+
+$(window).keypress(function(event) {
+  console.log(event);
+    if (event.keyCode == 114) {
+    $("body").css("background-color", "red");
+  }
+    
+    if (event.keyCode == 103) {
+    $("body").css("background-color", "lime");
+  }
+    
+    if (event.keyCode == 98) {
+    $("body").css("background-color", "blue");
+  }
+  
+});  

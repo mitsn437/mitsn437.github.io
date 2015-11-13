@@ -298,3 +298,29 @@ textarea {
         page-break-after: avoid;
     }
 }
+
+
+
+/*NEW*/
+
+.ball {
+    width: 100px;
+    height: 100px;
+    background-color:lime;
+    border-radius: 100%
+    position: fixed;
+    top: 10px;
+    left: 10px;
+    margin-left: -50px;
+    margin-top: -50px;
+}
+
+@media only screen and (max-width: 400px) {
+    
+.ball {
+    top: 10px;
+    left: 10px;
+    margin-left: -20px;
+    margin-top: -20px;
+    }
+}
