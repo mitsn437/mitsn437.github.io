@@ -60,3 +60,16 @@ $("#toggle").click(function() {
    }
 });
 
+// Part 3
+
+$("status").mouseenter(function(){
+    if (clicked == true){
+        $("cat").show();
+    }
+});
+
+$("status").mouseleave(function(){
+    if (clicked == true){
+        $("cat").hide();
+    }
+});

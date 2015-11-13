@@ -1,0 +1,48 @@
+.wrapper {
+    width: 1200px;
+    height: 600px;
+    margin: 0 auto;
+    position: relative;
+}
+
+
+#quoteArrayDiv {
+    /* margin: 40px; */
+    position: relative;
+    top: 90%;
+    left: 15%;
+    width:900px;
+	height:100px;
+    color: red;
+    font-size: 30px;
+    font-family: Futura;
+    font-weight: bold;
+    text-align:center;
+    /* z-index: 500; */
+    /* padding: 20px; */
+}
+
+#buttonDiv { /* afto einai to i love ny symbol*/
+	width:110px;
+	height:110px;
+    position: absolute;
+    top: 2%;
+    left: 90%;
+    /* background-color:red; */
+}
+
+#imageDiv {
+	width:500px ;
+	height:500px ;
+    /* background-color:pink; */
+    position: absolute;
+    top: 2%;
+    left: 30%;
+}
+
+
+#soundDiv {
+    opacity: 0;
+}
+
+/* <audio controls autoplay loop> */
