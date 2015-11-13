@@ -28,8 +28,7 @@
     position: absolute;
     top: 2%;
     left: 90%;
-    background-image: url(images/iloveny2.png);
-    /* background-color:red; */
+    background-image: url(img/iloveny2.png);
 }
 
 #imageDiv {
@@ -39,11 +38,62 @@
     position: absolute;
     top: 2%;
     left: 30%;
+    background-size: 100%;
 }
 
 
-#soundDiv {
+/* #soundDiv {
     opacity: 0;
-}
+    width: 120px;
+    height: 120px;
+} */
 
 /* <audio controls autoplay loop> */
+
+#sound1 {
+    opacity: 0;
+    width: 120px;
+    height: 120px;
+}
+
+#sound2 {
+    opacity: 0;
+    width: 120px;
+    height: 120px;
+}
+
+#sound3 {
+    opacity: 0;
+    width: 120px;
+    height: 120px;
+}
+
+#sound4 {
+    opacity: 0;
+    width: 120px;
+    height: 120px;
+}
+
+#sound5 {
+    opacity: 0;
+    width: 120px;
+    height: 120px;
+}
+
+#sound6 {
+    opacity: 0;
+    width: 120px;
+    height: 120px;
+}
+
+#sound7 {
+    opacity: 0;
+    width: 120px;
+    height: 120px;
+}
+
+#sound8 {
+    opacity: 0;
+    width: 120px;
+    height: 120px;
+}
