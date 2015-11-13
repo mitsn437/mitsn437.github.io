@@ -250,6 +250,51 @@ h3 {
     background-color: black;
 }
 
+.line9b {
+    position: absolute;
+    top: 20px;
+    left: 50px;
+    width: 3px;
+    height: 70px;
+    transform: rotate(60deg);
+    background-color: black;
+    border-radius: 100px;
+}
+
+.line10b {
+    position: absolute;
+    top: -7px;
+    left: 56px;
+    width: 3px;
+    height: 58px;
+    transform: rotate(125deg);
+    background-color: black;
+    border-radius: 100px;
+}
+
+.line11b {
+    position: absolute;
+    top: 16px;
+    left: 30px;
+    width: 3px;
+    height: 10px;
+    transform: rotate(65deg);
+    background-color: black;
+    border-radius: 100px;
+}
+
+.line12b {
+    position: absolute;
+    top: 4px;
+    left: 33px;
+    width: 3px;
+    height: 16px;
+    transform: rotate(-9deg);
+    background-color: black;
+    border-radius: 100px;
+}
+
+
 /*alphabet*/
 
 /*.d {
