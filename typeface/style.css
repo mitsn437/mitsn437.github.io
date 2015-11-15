@@ -825,7 +825,7 @@ h3 {
     background: #f1f1f1;
     position: absolute;
     top: 10px;
-    left: 670px;
+    left: 660px;
 }
 
 .line1f {
@@ -948,6 +948,73 @@ h3 {
     background-color: black;
     border-radius: 100px;
 }
+
+
+.boxG {
+    width: 120px;
+    height: 120px;
+    background: #f1f1f1;
+    position: absolute;
+    top: 140px;
+    left: 10px;
+}
+
+.line1g {
+    position: absolute;
+    top: 3px;
+    left: 90px;
+    width: 3px;
+    height: 6px;
+    transform: rotate(60deg);
+    background-color: black;
+    border-radius: 100px;
+}
+
+.line2g {
+    position: absolute;
+    top: -2px;
+    left: 62px;
+    width: 3px;
+    height: 80px;
+    transform: rotate(40deg);
+    background-color: black;
+    border-radius: 100px;
+}
+
+.line3g {
+    position: absolute;
+    top: 55px;
+    left: 63px;
+    width: 3px;
+    height: 75px;
+    transform: rotate(134deg);
+    background-color: black;
+    border-radius: 100px;
+}
+
+.line4g {
+    position: absolute;
+    top: 78px;
+    left: 88px;
+    width: 3px;
+    height: 40px;
+    transform: rotate(-5deg);
+    background-color: black;
+    border-radius: 100px;
+}
+
+.line5g {
+    position: absolute;
+    top: 40px;
+    left: 88px;
+    width: 3px;
+    height: 40px;
+    transform: rotate(5deg);
+    background-color: black;
+    border-radius: 100px;
+}
+
+
 
 
 
