@@ -950,6 +950,7 @@ h3 {
 }
 
 
+
 .boxG {
     width: 120px;
     height: 120px;
@@ -1143,6 +1144,52 @@ h3 {
     background-color: black;
     border-radius: 100px;
 }
+
+.boxI {
+    width: 120px;
+    height: 120px;
+    background: #f1f1f1;
+    position: absolute;
+    top: 140px;
+    left: 270px;
+}
+
+.line1i {
+    position: absolute;
+    top: 90px;
+    left: 50px;
+    width: 3px;
+    height: 27px;
+    transform: rotate(10deg);
+    background-color: black;
+    border-radius: 100px;
+}
+
+.line2i {
+    position: absolute;
+    top: 65px;
+    left: 54px;
+    width: 3px;
+    height: 27px;
+    transform: rotate(8deg);
+    background-color: black;
+    border-radius: 100px;
+}
+
+.line3i {
+    position: absolute;
+    top: 8px;
+    left: 58px;
+    width: 3px;
+    height: 60px;
+    transform: rotate(5deg);
+    background-color: black;
+    border-radius: 100px;
+}
+
+
+
+
 
 
 
