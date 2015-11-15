@@ -1299,6 +1299,94 @@ h3 {
 
 
 
+.boxK {
+    width: 120px;
+    height: 120px;
+    background: #f1f1f1;
+    position: absolute;
+    top: 140px;
+    left: 530px;
+}
+
+.line1k {
+    position: absolute;
+    top: 80px;
+    left: 30px;
+    width: 3px;
+    height: 40px;
+    transform: rotate(-8deg);
+    background-color: black;
+    border-radius: 100px;
+}
+
+.line2k {
+    position: absolute;
+    top: 32px;
+    left: 29px;
+    width: 3px;
+    height: 50px;
+    transform: rotate(3deg);
+    background-color: black;
+    border-radius: 100px;
+}
+
+.line3k {
+    position: absolute;
+    top: 14px;
+    left: 29px;
+    width: 3px;
+    height: 20px;
+    transform: rotate(-7deg);
+    background-color: black;
+    border-radius: 100px;
+}
+
+.line4k {
+    position: absolute;
+    top: 30px;
+    left: 40px;
+    width: 3px;
+    height: 20px;
+    transform: rotate(65deg);
+    background-color: black;
+    border-radius: 100px;
+}
+
+.line5k {
+    position: absolute;
+    top: 17px;
+    left: 62px;
+    width: 3px;
+    height: 30px;
+    transform: rotate(74deg);
+    background-color: black;
+    border-radius: 100px;
+}
+
+.line6k {
+    position: absolute;
+    top: 73px;
+    left: 39px;
+    width: 3px;
+    height: 25px;
+    transform: rotate(110deg);
+    background-color: black;
+    border-radius: 100px;
+}
+
+.line7k {
+    position: absolute;
+    top: 88px;
+    left: 52px;
+    width: 3px;
+    height: 30px;
+    transform: rotate(170deg);
+    background-color: black;
+    border-radius: 100px;
+}
+
+
+
 
 
 
