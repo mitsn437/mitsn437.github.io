@@ -698,6 +698,127 @@ h3 {
 
 
 
+.boxE {
+    width: 120px;
+    height: 120px;
+    background: #f1f1f1;
+    position: absolute;
+    top: 10px;
+    left: 530px;
+}
+
+.line1e {
+    position: absolute;
+    top: 95px;
+    left: 65px;
+    width:3px;
+    height: 45px;
+    transform: rotate(89deg);
+    background-color: black;
+    border-radius: 100px;
+}
+
+.line2e {
+    position: absolute;
+    top: 74px;
+    left: 42px;
+    width:3px;
+    height: 45px;
+    transform: rotate(-3deg);
+    background-color: black;
+    border-radius: 100px;
+}
+
+.line3e {
+    position: absolute;
+    top: 45px;
+    left: 42px;
+    width:3px;
+    height: 30px;
+    transform: rotate(4deg);
+    background-color: black;
+    border-radius: 100px;
+}
+
+.line4e {
+    position: absolute;
+    top: 38px;
+    left: 42px;
+    width:3px;
+    height: 17px;
+    transform: rotate(80deg);
+    background-color: black;
+    border-radius: 100px;
+}
+
+.line5e {
+    position: absolute;
+    top: 25px;
+    left: 35px;
+    width:3px;
+    height: 24px;
+    transform: rotate(0deg);
+    background-color: black;
+    border-radius: 100px;
+}
+
+.line6e {
+    position: absolute;
+    top: 20px;
+    left: 39px;
+    width:3px;
+    height: 10px;
+    transform: rotate(85deg);
+    background-color: black;
+    border-radius: 100px;
+}
+
+.line7e {
+    position: absolute;
+    top: 11px;
+    left: 58px;
+    width:3px;
+    height: 30px;
+    transform: rotate(95deg);
+    background-color: black;
+    border-radius: 100px;
+}
+
+.line8e {
+    position: absolute;
+    top:43px;
+    left: 52px;
+    width:3px;
+    height: 5px;
+    transform: rotate(96deg);
+    background-color: black;
+    border-radius: 100px;
+}
+
+.line9e {
+    position: absolute;
+    top:42px;
+    left: 58px;
+    width:3px;
+    height: 10px;
+    transform: rotate(104deg);
+    background-color: black;
+    border-radius: 100px;
+}
+
+.line10e {
+    position: absolute;
+    top:41px;
+    left: 68px;
+    width:3px;
+    height: 15px;
+    transform: rotate(95deg);
+    background-color: black;
+    border-radius: 100px;
+}
+
+
+
 
 
 /*alphabet*/
