@@ -1530,16 +1530,234 @@ h3 {
 
 .line1m {
     position: absolute;
-    top: 70px;
-    left: 30px;
+    top: 85px;
+    left: 20px;
     width: 3px;
-    height: 35px;
-    transform: rotate(6deg);
+    height: 20px;
+    transform: rotate(-1deg);
     background-color: black;
     border-radius: 100px;
 }
 
+.line2m {
+    position: absolute;
+    top: 79px;
+    left: 20px;
+    width: 3px;
+    height: 7px;
+    transform: rotate(10deg);
+    background-color: black;
+    border-radius: 100px;
+}
 
+.line3m {
+    position: absolute;
+    top: 75px;
+    left: 22px;
+    width: 3px;
+    height: 5px;
+    transform: rotate(25deg);
+    background-color: black;
+    border-radius: 100px;
+}
+
+.line4m {
+    position: absolute;
+    top: 72px;
+    left: 25px;
+    width: 3px;
+    height: 7px;
+    transform: rotate(90deg);
+    background-color: black;
+    border-radius: 100px;
+}
+
+.line5m {
+    position: absolute;
+    top: 73px;
+    left: 30px;
+    width: 3px;
+    height: 7px;
+    transform: rotate(110deg);
+    background-color: black;
+    border-radius: 100px;
+}
+
+.line6m {
+    position: absolute;
+    top: 80px;
+    left: 38px;
+    width: 3px;
+    height: 8px;
+    transform: rotate(140deg);
+    background-color: black;
+    border-radius: 100px;
+}
+
+.line7m {
+    position: absolute;
+    top: 77px;
+    left: 34px;
+    width: 3px;
+    height: 5px;
+    transform: rotate(140deg);
+    background-color: black;
+    border-radius: 100px;
+}
+
+.line8m {
+    position: absolute;
+    top: 86px;
+    left: 41px;
+    width: 3px;
+    height: 10px;
+    transform: rotate(-10deg);
+    background-color: black;
+    border-radius: 100px;
+}
+
+.line9m {
+    position: absolute;
+    top: 95px;
+    left: 44px;
+    width: 3px;
+    height: 13px;
+    transform: rotate(-20deg);
+    background-color: black;
+    border-radius: 100px;
+}
+
+.line10m {
+    position: absolute;
+    top: 105px;
+    left: 47px;
+    width: 3px;
+    height: 5px;
+    transform: rotate(140deg);
+    background-color: black;
+    border-radius: 100px;
+}
+
+.line11m {
+    position: absolute;
+    top: 107px;
+    left: 50px;
+    width: 3px;
+    height: 5px;
+    transform: rotate(90deg);
+    background-color: black;
+    border-radius: 100px;
+}
+
+.line12m {
+    position: absolute;
+    top: 95px;
+    left: 53px;
+    width: 3px;
+    height: 15px;
+    transform: rotate(10deg);
+    background-color: black;
+    border-radius: 100px;
+}
+
+.line13m {
+    position: absolute;
+    top: 86px;
+    left: 54px;
+    width: 3px;
+    height: 10px;
+    transform: rotate(0deg);
+    background-color: black;
+    border-radius: 100px;
+}
+
+.line14m {
+    position: absolute;
+    top: 60px;
+    left: 53px;
+    width: 3px;
+    height: 30px;
+    transform: rotate(-6deg);
+    background-color: black;
+    border-radius: 100px;
+}
+
+.line15m {
+    position: absolute;
+    top: 46px;
+    left: 52px;
+    width: 3px;
+    height: 18px;
+    transform: rotate(0deg);
+    background-color: black;
+    border-radius: 100px;
+}
+
+.line16m {
+    position: absolute;
+    top: 32px;
+    left: 53px;
+    width: 3px;
+    height: 18px;
+    transform: rotate(9deg);
+    background-color: black;
+    border-radius: 100px;
+}
+
+.line17m {
+    position: absolute;
+    top: 17px;
+    left: 56px;
+    width: 3px;
+    height: 18px;
+    transform: rotate(15deg);
+    background-color: black;
+    border-radius: 100px;
+}
+
+.line18m {
+    position: absolute;
+    top: 6px;
+    left: 61px;
+    width: 3px;
+    height: 13px;
+    transform: rotate(22deg);
+    background-color: black;
+    border-radius: 100px;
+}
+
+.line19m {
+    position: absolute;
+    top: 6px;
+    left: 66px;
+    width: 3px;
+    height: 50px;
+    transform: rotate(-7deg);
+    background-color: black;
+    border-radius: 100px;
+}
+
+.line20m {
+    position: absolute;
+    top: 52px;
+    left: 73px;
+    width: 3px;
+    height: 45px;
+    transform: rotate(-11deg);
+    background-color: black;
+    border-radius: 100px;
+}
+
+.line21m {
+    position: absolute;
+    top: 95px;
+    left: 80px;
+    width: 3px;
+    height: 20px;
+    transform: rotate(-17deg);
+    background-color: black;
+    border-radius: 100px;
+}
 
 
 
