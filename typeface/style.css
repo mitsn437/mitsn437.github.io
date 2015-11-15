@@ -1761,6 +1761,354 @@ h3 {
 
 
 
+.boxN {
+    width: 120px;
+    height: 120px;
+    background: #f1f1f1;
+    position: absolute;
+    top: 270px;
+    left: 140px;
+}
+
+.line1n {
+    position: absolute;
+    top: 85px;
+    left: 20px;
+    width: 3px;
+    height: 20px;
+    transform: rotate(-1deg);
+    background-color: black;
+    border-radius: 100px;
+}
+
+.line2n {
+    position: absolute;
+    top: 79px;
+    left: 20px;
+    width: 3px;
+    height: 7px;
+    transform: rotate(10deg);
+    background-color: black;
+    border-radius: 100px;
+}
+
+.line3n {
+    position: absolute;
+    top: 75px;
+    left: 22px;
+    width: 3px;
+    height: 5px;
+    transform: rotate(25deg);
+    background-color: black;
+    border-radius: 100px;
+}
+
+.line4n {
+    position: absolute;
+    top: 72px;
+    left: 25px;
+    width: 3px;
+    height: 7px;
+    transform: rotate(90deg);
+    background-color: black;
+    border-radius: 100px;
+}
+
+.line5n {
+    position: absolute;
+    top: 73px;
+    left: 30px;
+    width: 3px;
+    height: 7px;
+    transform: rotate(110deg);
+    background-color: black;
+    border-radius: 100px;
+}
+
+.line6n {
+    position: absolute;
+    top: 80px;
+    left: 38px;
+    width: 3px;
+    height: 8px;
+    transform: rotate(140deg);
+    background-color: black;
+    border-radius: 100px;
+}
+
+.line7n {
+    position: absolute;
+    top: 77px;
+    left: 34px;
+    width: 3px;
+    height: 5px;
+    transform: rotate(140deg);
+    background-color: black;
+    border-radius: 100px;
+}
+
+.line8n {
+    position: absolute;
+    top: 86px;
+    left: 41px;
+    width: 3px;
+    height: 10px;
+    transform: rotate(-10deg);
+    background-color: black;
+    border-radius: 100px;
+}
+
+.line9n {
+    position: absolute;
+    top: 95px;
+    left: 44px;
+    width: 3px;
+    height: 13px;
+    transform: rotate(-20deg);
+    background-color: black;
+    border-radius: 100px;
+}
+
+.line10n {
+    position: absolute;
+    top: 105px;
+    left: 47px;
+    width: 3px;
+    height: 5px;
+    transform: rotate(140deg);
+    background-color: black;
+    border-radius: 100px;
+}
+
+.line11n {
+    position: absolute;
+    top: 107px;
+    left: 50px;
+    width: 3px;
+    height: 5px;
+    transform: rotate(90deg);
+    background-color: black;
+    border-radius: 100px;
+}
+
+.line12n {
+    position: absolute;
+    top: 95px;
+    left: 53px;
+    width: 3px;
+    height: 15px;
+    transform: rotate(10deg);
+    background-color: black;
+    border-radius: 100px;
+}
+
+.line13n {
+    position: absolute;
+    top: 86px;
+    left: 54px;
+    width: 3px;
+    height: 10px;
+    transform: rotate(0deg);
+    background-color: black;
+    border-radius: 100px;
+}
+
+.line14n {
+    position: absolute;
+    top: 60px;
+    left: 53px;
+    width: 3px;
+    height: 30px;
+    transform: rotate(-6deg);
+    background-color: black;
+    border-radius: 100px;
+}
+
+.line15n {
+    position: absolute;
+    top: 46px;
+    left: 52px;
+    width: 3px;
+    height: 18px;
+    transform: rotate(0deg);
+    background-color: black;
+    border-radius: 100px;
+}
+
+.line16n {
+    position: absolute;
+    top: 32px;
+    left: 53px;
+    width: 3px;
+    height: 18px;
+    transform: rotate(9deg);
+    background-color: black;
+    border-radius: 100px;
+}
+
+.line17n {
+    position: absolute;
+    top: 17px;
+    left: 56px;
+    width: 3px;
+    height: 18px;
+    transform: rotate(15deg);
+    background-color: black;
+    border-radius: 100px;
+}
+
+.line18n {
+    position: absolute;
+    top: 6px;
+    left: 61px;
+    width: 3px;
+    height: 13px;
+    transform: rotate(22deg);
+    background-color: black;
+    border-radius: 100px;
+}
+
+
+
+.boxO {
+    width: 120px;
+    height: 120px;
+    background: #f1f1f1;
+    position: absolute;
+    top: 270px;
+    left: 270px;
+}
+
+.line1o {
+    position: absolute;
+    top: 85px;
+    left: 50px;
+    width: 3px;
+    height: 35px;
+    transform: rotate(105deg);
+    background-color: black;
+    border-radius: 100px;
+}
+
+.line2o {
+    position: absolute;
+    top: 96px;
+    left: 34px;
+    width: 3px;
+    height: 10px;
+    transform: rotate(100deg);
+    background-color: black;
+    border-radius: 100px;
+}
+
+.line3o {
+    position: absolute;
+    top: 92px;
+    left: 27px;
+    width: 3px;
+    height: 10px;
+    transform: rotate(140deg);
+    background-color: black;
+    border-radius: 100px;
+}
+
+.line4o {
+    position: absolute;
+    top: 84px;
+    left: 22px;
+    width: 3px;
+    height: 10px;
+    transform: rotate(155deg);
+    background-color: black;
+    border-radius: 100px;
+}
+
+.line5o {
+    position: absolute;
+    top: 66px;
+    left: 19px;
+    width: 3px;
+    height: 20px;
+    transform: rotate(173deg);
+    background-color: black;
+    border-radius: 100px;
+}
+
+.line6o {
+    position: absolute;
+    top: 48px;
+    left: 18px;
+    width: 3px;
+    height: 20px;
+    transform: rotate(180deg);
+    background-color: black;
+    border-radius: 100px;
+}
+
+.line7o {
+    position: absolute;
+    top: 34px;
+    left: 20px;
+    width: 3px;
+    height: 15px;
+    transform: rotate(195deg);
+    background-color: black;
+    border-radius: 100px;
+}
+
+.line8o {
+    position: absolute;
+    top: 26px;
+    left: 24px;
+    width: 3px;
+    height: 10px;
+    transform: rotate(205deg);
+    background-color: black;
+    border-radius: 100px;
+}
+
+.line9o {
+    position: absolute;
+    top: 16px;
+    left: 31px;
+    width: 3px;
+    height: 15px;
+    transform: rotate(233deg);
+    background-color: black;
+    border-radius: 100px;
+}
+
+.line10o {
+    position: absolute;
+    top: 13px;
+    left: 40px;
+    width: 3px;
+    height: 10px;
+    transform: rotate(245deg);
+    background-color: black;
+    border-radius: 100px;
+}
+
+.line11o {
+    position: absolute;
+    top: 13px;
+    left: 40px;
+    width: 3px;
+    height: 10px;
+    transform: rotate(245deg);
+    background-color: black;
+    border-radius: 100px;
+}
+
+
+
+
+
+
+
+
+
+
 
 
 
