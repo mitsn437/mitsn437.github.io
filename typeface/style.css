@@ -3081,6 +3081,229 @@ h3 {
 
 
 
+.boxU {
+    width: 120px;
+    height: 120px;
+    background: #f1f1f1;
+    position: absolute;
+    top: 400px;
+    left: 270px;
+}
+
+.line1u {
+    position: absolute;
+    top: 10px;
+    left: 95px;
+    width: 3px;
+    height: 45px;
+    transform: rotate(0deg);
+    background-color: black;
+    border-radius: 100px;
+}
+
+.line2u {
+    position: absolute;
+    top: 53px;
+    left: 91px;
+    width: 3px;
+    height: 45px;
+    transform: rotate(190deg);
+    background-color: black;
+    border-radius: 100px;
+}
+
+.line3u {
+    position: absolute;
+    top: 96px;
+    left: 84px;
+    width: 3px;
+    height: 15px;
+    transform: rotate(205deg);
+    background-color: black;
+    border-radius: 100px;
+}
+
+.line4u {
+    position: absolute;
+    top: 106px;
+    left: 78px;
+    width: 3px;
+    height: 10px;
+    transform: rotate(240deg);
+    background-color: black;
+    border-radius: 100px;
+}
+
+.line5u {
+    position: absolute;
+    top: 106px;
+    left: 67px;
+    width: 3px;
+    height: 15px;
+    transform: rotate(265deg);
+    background-color: black;
+    border-radius: 100px;
+}
+
+.line6u {
+    position: absolute;
+    top: 110px;
+    left: 58px;
+    width: 3px;
+    height: 7px;
+    transform: rotate(275deg);
+    background-color: black;
+    border-radius: 100px;
+}
+
+.line7u {
+    position: absolute;
+    top: 108px;
+    left: 52px;
+    width: 3px;
+    height: 8px;
+    transform: rotate(290deg);
+    background-color: black;
+    border-radius: 100px;
+}
+
+.line8u {
+    position: absolute;
+    top: 106px;
+    left: 47px;
+    width: 3px;
+    height: 6px;
+    transform: rotate(320deg);
+    background-color: black;
+    border-radius: 100px;
+}
+
+.line9u {
+    position: absolute;
+    top: 100px;
+    left: 45px;
+    width: 3px;
+    height: 8px;
+    transform: rotate(0deg);
+    background-color: black;
+    border-radius: 100px;
+}
+
+.line10u {
+    position: absolute;
+    top: 94px;
+    left: 43px;
+    width: 3px;
+    height: 8px;
+    transform: rotate(-40deg);
+    background-color: black;
+    border-radius: 100px;
+}
+
+.line11u {
+    position: absolute;
+    top: 82px;
+    left: 38px;
+    width: 3px;
+    height: 16px;
+    transform: rotate(-30deg);
+    background-color: black;
+    border-radius: 100px;
+}
+
+.line12u {
+    position: absolute;
+    top: 65px;
+    left: 32px;
+    width: 3px;
+    height: 20px;
+    transform: rotate(-15deg);
+    background-color: black;
+    border-radius: 100px;
+}
+
+.line13u {
+    position: absolute;
+    top: 45px;
+    left: 28px;
+    width: 3px;
+    height: 22px;
+    transform: rotate(-7deg);
+    background-color: black;
+    border-radius: 100px;
+}
+
+.line14u {
+    position: absolute;
+    top: 37px;
+    left: 26px;
+    width: 3px;
+    height: 10px;
+    transform: rotate(-9deg);
+    background-color: black;
+    border-radius: 100px;
+}
+
+.line15u {
+    position: absolute;
+    top: 29px;
+    left: 24px;
+    width: 3px;
+    height: 10px;
+    transform: rotate(-19deg);
+    background-color: black;
+    border-radius: 100px;
+}
+
+.line16u {
+    position: absolute;
+    top: 23px;
+    left: 22px;
+    width: 3px;
+    height: 8px;
+    transform: rotate(-8deg);
+    background-color: black;
+    border-radius: 100px;
+}
+
+.line17u {
+    position: absolute;
+    top: 19px;
+    left: 22px;
+    width: 3px;
+    height: 5px;
+    transform: rotate(0deg);
+    background-color: black;
+    border-radius: 100px;
+}
+
+.line17u {
+    position: absolute;
+    top: 14px;
+    left: 22px;
+    width: 3px;
+    height: 10px;
+    transform: rotate(7deg);
+    background-color: black;
+    border-radius: 100px;
+}
+
+.line18u {
+    position: absolute;
+    top: 8px;
+    left: 24px;
+    width: 3px;
+    height: 8px;
+    transform: rotate(25deg);
+    background-color: black;
+    border-radius: 100px;
+}
+
+
+
+
+
+
 
 
 
