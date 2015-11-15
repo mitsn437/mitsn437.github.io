@@ -2771,6 +2771,39 @@ h3 {
     border-radius: 100px;
 }
 
+.line30q {
+    position: absolute;
+    top: 60px;
+    left: 75px;
+    width: 3px;
+    height: 25px;
+    transform: rotate(90deg);
+    background-color: black;
+    border-radius: 100px;
+}
+
+.line31q {
+    position: absolute;
+    top: 71px;
+    left: 89px;
+    width: 3px;
+    height: 25px;
+    transform: rotate(170deg);
+    background-color: black;
+    border-radius: 100px;
+}
+
+.line32q {
+    position: absolute;
+    top: 94px;
+    left: 95px;
+    width: 3px;
+    height: 25px;
+    transform: rotate(160deg);
+    background-color: black;
+    border-radius: 100px;
+}
+
 
 
 
