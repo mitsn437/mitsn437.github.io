@@ -3048,6 +3048,38 @@ h3 {
 
 
 
+.boxT {
+    width: 120px;
+    height: 120px;
+    background: #f1f1f1;
+    position: absolute;
+    top: 400px;
+    left: 140px;
+}
+
+.line1t {
+    position: absolute;
+    top: -15px;
+    left: 50px;
+    width: 3px;
+    height: 75px;
+    transform: rotate(60deg);
+    background-color: black;
+    border-radius: 100px;
+}
+
+.line2t {
+    position: absolute;
+    top: 24px;
+    left: 55px;
+    width: 3px;
+    height: 90px;
+    transform: rotate(170deg);
+    background-color: black;
+    border-radius: 100px;
+}
+
+
 
 
 
