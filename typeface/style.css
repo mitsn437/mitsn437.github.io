@@ -3301,6 +3301,82 @@ h3 {
 
 
 
+.boxV {
+    width: 120px;
+    height: 120px;
+    background: #f1f1f1;
+    position: absolute;
+    top: 400px;
+    left: 400px;
+}
+
+.line1v {
+    position: absolute;
+    top: 3px;
+    left: 95px;
+    width: 3px;
+    height: 50px;
+    transform: rotate(-3deg);
+    background-color: black;
+    border-radius: 100px;
+}
+
+.line2v {
+    position: absolute;
+    top: 51px;
+    left: 96px;
+    width: 3px;
+    height: 60px;
+    transform: rotate(0deg);
+    background-color: black;
+    border-radius: 100px;
+}
+
+.line3v {
+    position: absolute;
+    top: 99px;
+    left: 85px;
+    width: 3px;
+    height: 25px;
+    transform: rotate(90deg);
+    background-color: black;
+    border-radius: 100px;
+}
+
+.line4v {
+    position: absolute;
+    top: 106px;
+    left: 71px;
+    width: 3px;
+    height: 8px;
+    transform: rotate(120deg);
+    background-color: black;
+    border-radius: 100px;
+}
+
+.line5v {
+    position: absolute;
+    top: 90px;
+    left: 63px;
+    width: 3px;
+    height: 20px;
+    transform: rotate(150deg);
+    background-color: black;
+    border-radius: 100px;
+}
+
+.line6v {
+    position: absolute;
+    top: 90px;
+    left: 63px;
+    width: 3px;
+    height: 20px;
+    transform: rotate(150deg);
+    background-color: black;
+    border-radius: 100px;
+}
+
+
 
 
 
