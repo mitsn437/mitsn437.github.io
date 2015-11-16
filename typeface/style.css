@@ -3585,6 +3585,28 @@ h3 {
     border-radius: 100px;
 }
 
+.line9x {
+    position: absolute;
+    top: -4px;
+    left: 62px;
+    width: 3px;
+    height: 90px;
+    transform: rotate(55deg);
+    background-color: black;
+    border-radius: 100px;
+}
+
+.line10x {
+    position: absolute;
+    top: 65px;
+    left: 26px;
+    width: 3px;
+    height: 54px;
+    transform: rotate(0deg);
+    background-color: black;
+    border-radius: 100px;
+}
+
 
 
 
