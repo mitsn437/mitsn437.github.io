@@ -3741,6 +3741,82 @@ h3 {
 
 
 
+.boxZ {
+    width: 120px;
+    height: 120px;
+    background: #f1f1f1;
+    position: absolute;
+    top: 530px;
+    left: 140px;
+}
+
+.line1z {
+    position: absolute;
+    top: -20px;
+    left: 40px;
+    width: 3px;
+    height: 70px;
+    transform: rotate(89deg);
+    background-color: black;
+    border-radius: 100px;
+}
+
+.line2z {
+    position: absolute;
+    top: 5px;
+    left: 51px;
+    width: 3px;
+    height: 65px;
+    transform: rotate(-135deg);
+    background-color: black;
+    border-radius: 100px;
+}
+
+.line3z {
+    position: absolute;
+    top: 59px;
+    left: 28px;
+    width: 3px;
+    height: 15px;
+    transform: rotate(185deg);
+    background-color: black;
+    border-radius: 100px;
+}
+
+.line4z {
+    position: absolute;
+    top: 72px;
+    left: 28px;
+    width: 3px;
+    height: 10px;
+    transform: rotate(-185deg);
+    background-color: black;
+    border-radius: 100px;
+}
+
+.line5z {
+    position: absolute;
+    top: 60px;
+    left: 47px;
+    width: 3px;
+    height: 40px;
+    transform: rotate(85deg);
+    background-color: black;
+    border-radius: 100px;
+}
+
+.line6z {
+    position: absolute;
+    top: 60px;
+    left: 85px;
+    width: 3px;
+    height: 40px;
+    transform: rotate(95deg);
+    background-color: black;
+    border-radius: 100px;
+}
+
+
 
 
 
