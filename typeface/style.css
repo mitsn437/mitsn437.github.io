@@ -24,13 +24,13 @@ h3 {
 
 /*mountains*/
 
-.mountains {
+.mountainsbox {
     width: 700px;
     height: 500px;
     background: white;
     position: absolute;
-    top: 10px;
-    left: 30px;
+    top: 0%;
+    left: 30%;
 }
 
 .mountainsline1 {
@@ -92,6 +92,121 @@ h3 {
     transform: rotate(-30deg);
     background-color: black;
 }
+
+
+
+/*sea*/
+
+.seabox {
+    width: 700px;
+    height: 100px;
+    background: white;
+    position: absolute;
+    top: 98%;
+    left: 30%;
+}
+
+.sealine1 {
+    position: absolute;
+    top: 0%;
+    left: 0%;
+    width: 3px;
+    height: 100px;
+    transform: rotate(30deg);
+    background-color: black;
+}
+
+.sealine2 {
+    position: absolute;
+    top: 0%;
+    left: 7%;
+    width: 3px;
+    height: 100px;
+    transform: rotate(-30deg);
+    background-color: black;
+}
+
+.sealine3 {
+    position: absolute;
+    top: 0%;
+    left: 14%;
+    width: 3px;
+    height: 100px;
+    transform: rotate(30deg);
+    background-color: black;
+}
+
+.sealine4 {
+    position: absolute;
+    top: 0%;
+    left: 21%;
+    width: 3px;
+    height: 100px;
+    transform: rotate(-30deg);
+    background-color: black;
+}
+
+.sealine5 {
+    position: absolute;
+    top: 0%;
+    left: 28%;
+    width: 3px;
+    height: 100px;
+    transform: rotate(30deg);
+    background-color: black;
+}
+
+.sealine6 {
+    position: absolute;
+    top: 0%;
+    left: 35%;
+    width: 3px;
+    height: 100px;
+    transform: rotate(-30deg);
+    background-color: black;
+}
+
+.sealine7 {
+    position: absolute;
+    top: 0%;
+    left: 42%;
+    width: 3px;
+    height: 100px;
+    transform: rotate(30deg);
+    background-color: black;
+}
+
+.sealine8 {
+    position: absolute;
+    top: 0%;
+    left: 49%;
+    width: 3px;
+    height: 100px;
+    transform: rotate(-30deg);
+    background-color: black;
+}
+
+.sealine9 {
+    position: absolute;
+    top: 0%;
+    left: 56%;
+    width: 3px;
+    height: 100px;
+    transform: rotate(30deg);
+    background-color: black;
+}
+
+.sealine10 {
+    position: absolute;
+    top: 0%;
+    left: 63%;
+    width: 3px;
+    height: 100px;
+    transform: rotate(-30deg);
+    background-color: black;
+}
+
+
 
 
 /*typeface code*/
