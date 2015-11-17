@@ -22,6 +22,78 @@ h3 {
 }
 
 
+/*mountains*/
+
+.mountains {
+    width: 700px;
+    height: 500px;
+    background: white;
+    position: absolute;
+    top: 10px;
+    left: 30px;
+}
+
+.mountainsline1 {
+    position: absolute;
+    top: 55px;
+    left: 20px;
+    width: 3px;
+    height: 300px;
+    transform: rotate(25deg);
+    background-color: black;
+}
+
+.mountainsline2 {
+    position: absolute;
+    top: 44px;
+    left: 183px;
+    width: 3px;
+    height: 400px;
+    transform: rotate(-30deg);
+    background-color: black;
+}
+
+.mountainsline3 {
+    position: absolute;
+    top: 170px;
+    left: 240px;
+    width: 3px;
+    height: 120px;
+    transform: rotate(40deg);
+    background-color: black;
+}
+
+.mountainsline4 {
+    position: absolute;
+    top: 180px;
+    left: 293px;
+    width: 3px;
+    height: 80px;
+    transform: rotate(-20deg);
+    background-color: black;
+}
+
+.mountainsline5 {
+    position: absolute;
+    top: 35px;
+    left: 344px;
+    width: 3px;
+    height: 200px;
+    transform: rotate(30deg);
+    background-color: black;
+}
+
+.mountainsline6 {
+    position: absolute;
+    top: 25px;
+    left: 481px;
+    width: 3px;
+    height: 350px;
+    transform: rotate(-30deg);
+    background-color: black;
+}
+
+
 /*typeface code*/
 
 .wrapper2 {
