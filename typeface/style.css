@@ -1,3 +1,5 @@
+/*typeface.html*/
+
 h1 {
     color: white;
     font-family: Futura, 'Trebuchet MS', Arial, sans-serif;
@@ -22,194 +24,8 @@ h3 {
 }
 
 
-/*mountains*/
 
-.mountainsbox {
-    width: 700px;
-    height: 500px;
-    background: white;
-    position: absolute;
-    top: 0%;
-    left: 30%;
-}
-
-.mountainsline1 {
-    position: absolute;
-    top: 55px;
-    left: 20px;
-    width: 3px;
-    height: 300px;
-    transform: rotate(25deg);
-    background-color: black;
-}
-
-.mountainsline2 {
-    position: absolute;
-    top: 44px;
-    left: 183px;
-    width: 3px;
-    height: 400px;
-    transform: rotate(-30deg);
-    background-color: black;
-}
-
-.mountainsline3 {
-    position: absolute;
-    top: 170px;
-    left: 240px;
-    width: 3px;
-    height: 120px;
-    transform: rotate(40deg);
-    background-color: black;
-}
-
-.mountainsline4 {
-    position: absolute;
-    top: 180px;
-    left: 293px;
-    width: 3px;
-    height: 80px;
-    transform: rotate(-20deg);
-    background-color: black;
-}
-
-.mountainsline5 {
-    position: absolute;
-    top: 35px;
-    left: 344px;
-    width: 3px;
-    height: 200px;
-    transform: rotate(30deg);
-    background-color: black;
-}
-
-.mountainsline6 {
-    position: absolute;
-    top: 25px;
-    left: 481px;
-    width: 3px;
-    height: 350px;
-    transform: rotate(-30deg);
-    background-color: black;
-}
-
-
-
-/*sea*/
-
-.seabox {
-    width: 700px;
-    height: 100px;
-    background: white;
-    position: absolute;
-    top: 98%;
-    left: 30%;
-}
-
-.sealine1 {
-    position: absolute;
-    top: 0%;
-    left: 0%;
-    width: 3px;
-    height: 100px;
-    transform: rotate(30deg);
-    background-color: black;
-}
-
-.sealine2 {
-    position: absolute;
-    top: 0%;
-    left: 7%;
-    width: 3px;
-    height: 100px;
-    transform: rotate(-30deg);
-    background-color: black;
-}
-
-.sealine3 {
-    position: absolute;
-    top: 0%;
-    left: 14%;
-    width: 3px;
-    height: 100px;
-    transform: rotate(30deg);
-    background-color: black;
-}
-
-.sealine4 {
-    position: absolute;
-    top: 0%;
-    left: 21%;
-    width: 3px;
-    height: 100px;
-    transform: rotate(-30deg);
-    background-color: black;
-}
-
-.sealine5 {
-    position: absolute;
-    top: 0%;
-    left: 28%;
-    width: 3px;
-    height: 100px;
-    transform: rotate(30deg);
-    background-color: black;
-}
-
-.sealine6 {
-    position: absolute;
-    top: 0%;
-    left: 35%;
-    width: 3px;
-    height: 100px;
-    transform: rotate(-30deg);
-    background-color: black;
-}
-
-.sealine7 {
-    position: absolute;
-    top: 0%;
-    left: 42%;
-    width: 3px;
-    height: 100px;
-    transform: rotate(30deg);
-    background-color: black;
-}
-
-.sealine8 {
-    position: absolute;
-    top: 0%;
-    left: 49%;
-    width: 3px;
-    height: 100px;
-    transform: rotate(-30deg);
-    background-color: black;
-}
-
-.sealine9 {
-    position: absolute;
-    top: 0%;
-    left: 56%;
-    width: 3px;
-    height: 100px;
-    transform: rotate(30deg);
-    background-color: black;
-}
-
-.sealine10 {
-    position: absolute;
-    top: 0%;
-    left: 63%;
-    width: 3px;
-    height: 100px;
-    transform: rotate(-30deg);
-    background-color: black;
-}
-
-
-
-
-/*typeface code*/
+/*typefacecode.html*/
 
 .wrapper2 {
     width: 820px;
@@ -4004,34 +3820,202 @@ h3 {
 }
 
 
+/*website.html*/
 
+/*mountains*/
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-/*alphabet*/
-
-/*.d {
-    position: absolute;
-    height: 50px;
-    width: 50px;*/
-  
 .wrapper {
     width: 8580px;
     height: 6660px;
     margin: 0 auto;
     position: relative;
 }
+
+
+
+.mountainsbox {
+    width: 700px;
+    height: 500px;
+    background: white;
+    position: absolute;
+    top: 0%;
+    left: 48%;
+}
+
+.mountainsline1 {
+    position: absolute;
+    top: 55px;
+    left: 20px;
+    width: 3px;
+    height: 300px;
+    transform: rotate(25deg);
+    background-color: black;
+}
+
+.mountainsline2 {
+    position: absolute;
+    top: 44px;
+    left: 183px;
+    width: 3px;
+    height: 400px;
+    transform: rotate(-30deg);
+    background-color: black;
+}
+
+.mountainsline3 {
+    position: absolute;
+    top: 170px;
+    left: 240px;
+    width: 3px;
+    height: 120px;
+    transform: rotate(40deg);
+    background-color: black;
+}
+
+.mountainsline4 {
+    position: absolute;
+    top: 180px;
+    left: 293px;
+    width: 3px;
+    height: 80px;
+    transform: rotate(-20deg);
+    background-color: black;
+}
+
+.mountainsline5 {
+    position: absolute;
+    top: 35px;
+    left: 344px;
+    width: 3px;
+    height: 200px;
+    transform: rotate(30deg);
+    background-color: black;
+}
+
+.mountainsline6 {
+    position: absolute;
+    top: 25px;
+    left: 481px;
+    width: 3px;
+    height: 350px;
+    transform: rotate(-30deg);
+    background-color: black;
+}
+
+
+
+/*sea*/
+
+.seabox {
+    width: 700px;
+    height: 100px;
+    background: white;
+    position: absolute;
+    top: 98%;
+    left: 50%;
+}
+
+.sealine1 {
+    position: absolute;
+    top: 0%;
+    left: 0%;
+    width: 3px;
+    height: 100px;
+    transform: rotate(30deg);
+    background-color: black;
+}
+
+.sealine2 {
+    position: absolute;
+    top: 0%;
+    left: 7%;
+    width: 3px;
+    height: 100px;
+    transform: rotate(-30deg);
+    background-color: black;
+}
+
+.sealine3 {
+    position: absolute;
+    top: 0%;
+    left: 14%;
+    width: 3px;
+    height: 100px;
+    transform: rotate(30deg);
+    background-color: black;
+}
+
+.sealine4 {
+    position: absolute;
+    top: 0%;
+    left: 21%;
+    width: 3px;
+    height: 100px;
+    transform: rotate(-30deg);
+    background-color: black;
+}
+
+.sealine5 {
+    position: absolute;
+    top: 0%;
+    left: 28%;
+    width: 3px;
+    height: 100px;
+    transform: rotate(30deg);
+    background-color: black;
+}
+
+.sealine6 {
+    position: absolute;
+    top: 0%;
+    left: 35%;
+    width: 3px;
+    height: 100px;
+    transform: rotate(-30deg);
+    background-color: black;
+}
+
+.sealine7 {
+    position: absolute;
+    top: 0%;
+    left: 42%;
+    width: 3px;
+    height: 100px;
+    transform: rotate(30deg);
+    background-color: black;
+}
+
+.sealine8 {
+    position: absolute;
+    top: 0%;
+    left: 49%;
+    width: 3px;
+    height: 100px;
+    transform: rotate(-30deg);
+    background-color: black;
+}
+
+.sealine9 {
+    position: absolute;
+    top: 0%;
+    left: 56%;
+    width: 3px;
+    height: 100px;
+    transform: rotate(30deg);
+    background-color: black;
+}
+
+.sealine10 {
+    position: absolute;
+    top: 0%;
+    left: 63%;
+    width: 3px;
+    height: 100px;
+    transform: rotate(-30deg);
+    background-color: black;
+}
+
+
     
 .resize { /*gia to resizing tis fotografias*/
    max-width:30%;
@@ -4053,47 +4037,47 @@ h3 {
 
 .image1 { /*done*/
     position: absolute;
-    top: 25%;
+    top: 20%;
     left: 10%;
 }
 
 .image2 {
     position: absolute;
-    top: 30%;
-    left: 10%;
+    top: 80%;
+    left: 55%;
 }
 
 .image3 {
     position: absolute;
-    top: 80%;
-    left: 20%;
+    top: 85%;
+    left: 75%;
 }
 
 .image4 {
     position: absolute;
-    top: 80%;
-    left: 20%;
+    top: 12%;
+    left: 77%;
 }
 
 .image5 {
     position: absolute;
-    top: 80%;
-    left: 20%;
+    top: 17%;
+    left: 90%;
 }
 
 .image6 {
     position: absolute;
-    top: 80%;
-    left: 20%;
+    top: 70%;
+    left: 7%;
 }
 
 .image7 {
     position: absolute;
-    top: 75%;
-    left: 7%;
+    top: 98%;
+    left: 66%;
 }
 
-.image8 { /*done*/
+.image8 {
     position: absolute;
     top: 40%;
     left: 7%;
@@ -4101,86 +4085,86 @@ h3 {
 
 .image9 {
     position: absolute;
-    top: 80%;
-    left: 20%;
+    top: 40%;
+    left: 30%;
 }
 
 .image10 {
     position: absolute;
-    top: 10%;
-    left: 20%;
+    top: 78%;
+    left: 50%;
 }
 
 .image11 {
     position: absolute;
-    top: 30%;
-    left: 50%;
+    top: 25%;
+    left: 35%;
 }
 
 .image12 {
     position: absolute;
-    top: 80%;
-    left: 20%;
+    top: 66%;
+    left: 35%;
 }
 
 .image13 {
     position: absolute;
-    top: 80%;
-    left: 20%;
+    top: 87%;
+    left: 85%;
 }
 
 .image14 {
     position: absolute;
-    top: 80%;
-    left: 20%;
+    top: 43%;
+    left: 60%;
 }
 
 .image15 {
     position: absolute;
-    top: 80%;
-    left: 20%;
+    top: 45%;
+    left: 48%;
 }
 
-.image16 {  /*done*/
+.image16 {
     position: absolute;
-    top: 20%;
+    top: 15%;
     left: 20%;
 }
 
 .image17 {
     position: absolute;
-    top: 80%;
-    left: 20%;
+    top: 73%;
+    left: 23%;
 }
 
 .image18 {
     position: absolute;
-    top: 80%;
-    left: 20%;
+    top: 40%;
+    left: 53%;
 }
 
 .image19 {
     position: absolute;
-    top: 10%;
-    left: 20%;
+    top: 25%;
+    left: 50%;
 }
 
 .image20 {
     position: absolute;
-    top: 30%;
-    left: 50%;
+    top: 55%;
+    left: 48%;
 }
 
 .image21 {
     position: absolute;
     top: 80%;
-    left: 20%;
+    left: 35%;
 }
 
 .image22 {
     position: absolute;
-    top: 80%;
-    left: 20%;
+    top: 60%;
+    left: 70%;
 }
 
 .image23 {
