@@ -3846,60 +3846,66 @@ h3 {
     position: absolute;
     top: 55px;
     left: 20px;
-    width: 3px;
+    width: 6px;
     height: 300px;
     transform: rotate(25deg);
     background-color: black;
+    border-radius: 100px;
 }
 
 .mountainsline2 {
     position: absolute;
     top: 44px;
-    left: 183px;
-    width: 3px;
+    left: 182px;
+    width: 6px;
     height: 400px;
     transform: rotate(-30deg);
     background-color: black;
+    border-radius: 100px;
 }
 
 .mountainsline3 {
     position: absolute;
     top: 170px;
     left: 240px;
-    width: 3px;
+    width: 6px;
     height: 120px;
     transform: rotate(40deg);
     background-color: black;
+    border-radius: 100px;
 }
 
 .mountainsline4 {
     position: absolute;
     top: 180px;
-    left: 293px;
-    width: 3px;
+    left: 291px;
+    width: 6px;
     height: 80px;
     transform: rotate(-20deg);
     background-color: black;
+    border-radius: 100px;
 }
 
 .mountainsline5 {
     position: absolute;
     top: 35px;
     left: 344px;
-    width: 3px;
+    width: 6px;
     height: 200px;
     transform: rotate(30deg);
     background-color: black;
+    border-radius: 100px;
 }
 
 .mountainsline6 {
     position: absolute;
     top: 25px;
-    left: 481px;
-    width: 3px;
+    left: 480px;
+    width: 6px;
     height: 350px;
     transform: rotate(-30deg);
     background-color: black;
+    border-radius: 100px;
 }
 
 
@@ -3919,107 +3925,117 @@ h3 {
     position: absolute;
     top: 0%;
     left: 0%;
-    width: 3px;
+    width: 6px;
     height: 100px;
     transform: rotate(30deg);
     background-color: black;
+    border-radius: 100px;
 }
 
 .sealine2 {
     position: absolute;
     top: 0%;
     left: 7%;
-    width: 3px;
+    width: 6px;
     height: 100px;
     transform: rotate(-30deg);
     background-color: black;
+    border-radius: 100px;
 }
 
 .sealine3 {
     position: absolute;
     top: 0%;
     left: 14%;
-    width: 3px;
+    width: 6px;
     height: 100px;
     transform: rotate(30deg);
     background-color: black;
+    border-radius: 100px;
 }
 
 .sealine4 {
     position: absolute;
     top: 0%;
     left: 21%;
-    width: 3px;
+    width: 6px;
     height: 100px;
     transform: rotate(-30deg);
     background-color: black;
+    border-radius: 100px;
 }
 
 .sealine5 {
     position: absolute;
     top: 0%;
     left: 28%;
-    width: 3px;
+    width: 6px;
     height: 100px;
     transform: rotate(30deg);
     background-color: black;
+    border-radius: 100px;
 }
 
 .sealine6 {
     position: absolute;
     top: 0%;
     left: 35%;
-    width: 3px;
+    width: 6px;
     height: 100px;
     transform: rotate(-30deg);
     background-color: black;
+    border-radius: 100px;
 }
 
 .sealine7 {
     position: absolute;
     top: 0%;
     left: 42%;
-    width: 3px;
+    width: 6px;
     height: 100px;
     transform: rotate(30deg);
     background-color: black;
+    border-radius: 100px;
 }
 
 .sealine8 {
     position: absolute;
     top: 0%;
     left: 49%;
-    width: 3px;
+    width: 6px;
     height: 100px;
     transform: rotate(-30deg);
     background-color: black;
+    border-radius: 100px;
 }
 
 .sealine9 {
     position: absolute;
     top: 0%;
     left: 56%;
-    width: 3px;
+    width: 6px;
     height: 100px;
     transform: rotate(30deg);
     background-color: black;
+    border-radius: 100px;
 }
 
 .sealine10 {
     position: absolute;
     top: 0%;
     left: 63%;
-    width: 3px;
+    width: 6px;
     height: 100px;
     transform: rotate(-30deg);
     background-color: black;
+    border-radius: 100px;
 }
 
 
     
 .resize { /*gia to resizing tis fotografias*/
-   max-width:43%;
-   max-height:43%;
+   max-width:35%;
+   max-height:35%;
 }
 
 
@@ -4044,25 +4060,25 @@ h3 {
 .image2 {
     position: absolute;
     top: 80%;
-    left: 55%;
+    left: 54%;
 }
 
 .image3 {
     position: absolute;
     top: 85%;
-    left: 75%;
+    left: 68%;
 }
 
 .image4 {
     position: absolute;
-    top: 12%;
-    left: 77%;
+    top: 6%;
+    left: 78%;
 }
 
 .image5 {
     position: absolute;
-    top: 17%;
-    left: 90%;
+    top: 25%;
+    left: 85%;
 }
 
 .image6 {
@@ -4073,8 +4089,8 @@ h3 {
 
 .image7 {
     position: absolute;
-    top: 98%;
-    left: 66%;
+    top: 74%;
+    left: 94%;
 }
 
 .image8 {
@@ -4091,38 +4107,38 @@ h3 {
 
 .image10 {
     position: absolute;
-    top: 78%;
+    top: 77%;
     left: 50%;
 }
 
 .image11 {
     position: absolute;
     top: 10%;
-    left: 35%;
+    left: 38%;
 }
 
 .image12 {
     position: absolute;
-    top: 66%;
+    top: 78%;
     left: 35%;
 }
 
 .image13 {
     position: absolute;
-    top: 87%;
-    left: 85%;
+    top: 93%;
+    left: 81%;
 }
 
 .image14 {
     position: absolute;
     top: 43%;
-    left: 60%;
+    left: 56%;
 }
 
 .image15 {
     position: absolute;
-    top: 45%;
-    left: 48%;
+    top: 35%;
+    left: 40%;
 }
 
 .image16 {
@@ -4139,31 +4155,31 @@ h3 {
 
 .image18 {
     position: absolute;
-    top: 40%;
-    left: 53%;
+    top: 23%;
+    left: 48%;
 }
 
 .image19 {
     position: absolute;
     top: 58%;
-    left: 22%;
+    left: 20%;
 }
 
 .image20 {
     position: absolute;
-    top: 55%;
-    left: 48%;
+    top: 53%;
+    left: 37%;
 }
 
 .image21 {
     position: absolute;
-    top: 35%;
-    left: 80%;
+    top: 37%;
+    left: 72%;
 }
 
 .image22 {
     position: absolute;
-    top: 60%;
+    top: 61%;
     left: 70%;
 }
 
@@ -4175,26 +4191,26 @@ h3 {
 
 .image24 {
     position: absolute;
-    top: 35%;
-    left: 83%;
+    top: 39%;
+    left: 77%;
 }
 
 .image25 {
     position: absolute;
-    top: 90%;
+    top: 95%;
     left: 85%;
 }
 
 .image26 {
     position: absolute;
-    top: 15%;
-    left: 70%;
+    top: 3%;
+    left: 83%;
 }
 
 .image27 {
     position: absolute;
-    top: 28%;
-    left: 88%;
+    top: 24%;
+    left: 90%;
 }
 
 .image28 {
@@ -4205,19 +4221,19 @@ h3 {
 
 .image29 {
     position: absolute;
-    top: 63%;
-    left: 55%;
+    top: 59%;
+    left: 51%;
 }
 
 .image30 {
     position: absolute;
-    top: 63%;
-    left: 91%;
+    top: 70%;
+    left: 89%;
 }
 
 .image31 {
     position: absolute;
-    top: 48%;
+    top: 53%;
     left: 87%;
 }
 
@@ -4229,14 +4245,14 @@ h3 {
 
 .image33 {
     position: absolute;
-    top: 55%;
-    left: 88%;
+    top: 57%;
+    left: 91%;
 }
 
 .image34 {
     position: absolute;
-    top: 80%;
-    left: 90%;
+    top: 85%;
+    left: 95%;
 }
 
 .image35 {
