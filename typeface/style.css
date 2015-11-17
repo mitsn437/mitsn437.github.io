@@ -4018,8 +4018,8 @@ h3 {
 
     
 .resize { /*gia to resizing tis fotografias*/
-   max-width:30%;
-   max-height:30%;
+   max-width:43%;
+   max-height:43%;
 }
 
 
@@ -4037,7 +4037,7 @@ h3 {
 
 .image1 { /*done*/
     position: absolute;
-    top: 20%;
+    top: 25%;
     left: 10%;
 }
 
@@ -4067,7 +4067,7 @@ h3 {
 
 .image6 {
     position: absolute;
-    top: 70%;
+    top: 73%;
     left: 7%;
 }
 
@@ -4085,7 +4085,7 @@ h3 {
 
 .image9 {
     position: absolute;
-    top: 40%;
+    top: 20%;
     left: 30%;
 }
 
@@ -4097,7 +4097,7 @@ h3 {
 
 .image11 {
     position: absolute;
-    top: 25%;
+    top: 10%;
     left: 35%;
 }
 
@@ -4127,13 +4127,13 @@ h3 {
 
 .image16 {
     position: absolute;
-    top: 15%;
-    left: 20%;
+    top: 7%;
+    left: 18%;
 }
 
 .image17 {
     position: absolute;
-    top: 73%;
+    top: 71%;
     left: 23%;
 }
 
@@ -4145,8 +4145,8 @@ h3 {
 
 .image19 {
     position: absolute;
-    top: 25%;
-    left: 50%;
+    top: 58%;
+    left: 22%;
 }
 
 .image20 {
@@ -4157,8 +4157,8 @@ h3 {
 
 .image21 {
     position: absolute;
-    top: 80%;
-    left: 35%;
+    top: 35%;
+    left: 80%;
 }
 
 .image22 {
@@ -4169,14 +4169,14 @@ h3 {
 
 .image23 {
     position: absolute;
-    top: 85%;
+    top: 91%;
     left: 25%;
 }
 
 .image24 {
     position: absolute;
-    top: 83%;
-    left: 35%;
+    top: 35%;
+    left: 83%;
 }
 
 .image25 {
@@ -4199,7 +4199,7 @@ h3 {
 
 .image28 {
     position: absolute;
-    top: 85%;
+    top: 90%;
     left: 8%;
 }
 
@@ -4241,12 +4241,12 @@ h3 {
 
 .image35 {
     position: absolute;
-    top: 53%;
+    top: 60%;
     left: 5%;
 }
 
 .image36 {
     position: absolute;
-    top: 45%;
-    left: 28%;
+    top: 38%;
+    left: 23%;
 }
