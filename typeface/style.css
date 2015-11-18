@@ -4483,16 +4483,57 @@ h3 {
 
 
 
-
-
-
-
+.box13 {
+     width: 1000px;
+     height: 800px;
+     position: absolute;
+     top: 90%;
+     left: 80%;
+}
 
 .image13 {
     position: absolute;
-    top: 93%;
-    left: 81%;
+    top: 20%;
+    left: 1%;
 }
+
+.image25 {
+    position: absolute;
+    top: 30%;
+    left: 38%;
+    width: 1000px;
+}
+
+.boxwhite {
+    width: 1550px;
+    height: 120px;
+    position: absolute;
+    top: 75%;
+    left: 1%;
+}
+
+.boxchoice {
+    width: 1550px;
+    height: 120px;
+    position: absolute;
+    top: 93%;
+    left: 1%;
+}
+
+.text13 {
+    position: absolute;
+    top: 2%;
+    left: 41%;
+    color: black;
+    font-family: Futura;
+    width: 300px;
+    font-size: 20px;
+}
+
+
+
+
+
 
 .image14 {
     position: absolute;
@@ -4560,16 +4601,10 @@ h3 {
     left: 77%;
 }
 
-.image25 {
-    position: absolute;
-    top: 95%;
-    left: 85%;
-}
-
 .image28 {
     position: absolute;
-    top: 90%;
-    left: 8%;
+    top: 95%;
+    left: 9%;
 }
 
 .image29 {
