@@ -3811,9 +3811,10 @@ h3 {
 
 .donkey {
     position: fixed;
-    top: 50%;
+    top: 75%;
     left: 42%;
     z-index: 1;
+    width: 10%;
 }
 
 .votsalomountains {
