@@ -4108,6 +4108,7 @@ h3 {
     color: black;
     font-family: Futura;
     width: 400px;
+    font-size: 20px;
 }
 
 
@@ -4132,19 +4133,109 @@ h3 {
     color: black;
     font-family: Futura;
     width: 300px;
+    font-size: 20px;
 }
+
+
+
+.box4 {
+     width: 1500px;
+     height: 1000px;
+     position: absolute;
+     top: 4%;
+     left: 70%;
+ }
 
 .image4 {
     position: absolute;
-    top: 6%;
-    left: 78%;
+    top: 45%;
+    left: 8%;
 }
+
+.image26 {
+    position: absolute;
+    top: 35%;
+    left: 32%;
+}
+
+.text4 {
+    position: absolute;
+    top: 80%;
+    left: 33%;
+    color: black;
+    font-family: Futura;
+    width: 300px;
+    font-size: 20px;
+}
+
+.boxvillage {
+     width: 1300px;
+     height: 120px;
+     position: absolute;
+     top: 4%;
+     left: 5%;
+ }
+ 
+ .boxatmosphere {
+     width: 1300px;
+     height: 120px;
+     position: absolute;
+     top: 17%;
+     left: 5%;
+ }
+
+
+
+.box5 {
+     width: 2000px;
+     height: 1000px;
+     position: absolute;
+     top: 23%;
+     left: 85%;
+ }
 
 .image5 {
     position: absolute;
-    top: 25%;
-    left: 85%;
+    top: 38%;
+    left: 17%;
 }
+
+.image27 {
+    position: absolute;
+    top: 33%;
+    left: 35%;
+    width: 1000px;
+}
+
+.text5 {
+    position: absolute;
+    top: 65%;
+    left: 35%;
+    color: black;
+    font-family: Futura;
+    width: 800px;
+    font-size: 20px;
+}
+
+.boxunique {
+    width: 1300px;
+    height: 120px;
+    position: absolute;
+    top: 0%;
+    left: 5%;
+}
+ 
+.boxstyle {
+    width: 1300px;
+    height: 120px;
+    position: absolute;
+    top: 17%;
+    left: 5%;
+}
+
+
+
+
 
 .image6 {
     position: absolute;
@@ -4260,19 +4351,6 @@ h3 {
     position: absolute;
     top: 95%;
     left: 85%;
-}
-
-.image26 {
-    position: absolute;
-    top: 3%;
-    left: 83%;
-}
-
-.image27 {
-    position: absolute;
-    top: 23%;
-    left: 89%;
-    width: 1000px;
 }
 
 .image28 {
