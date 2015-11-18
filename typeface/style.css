@@ -4235,20 +4235,94 @@ h3 {
 
 
 
-
+.box6 {
+     width: 1000px;
+     height: 800px;
+     position: absolute;
+     top: 73%;
+     left: 3%;
+ } 
 
 .image6 {
     position: absolute;
-    top: 73%;
-    left: 7%;
+    top: 25%;
+    left: 35%;
+    width: 1000px;
 }
+
+.text6 {
+    position: absolute;
+    top: 35%;
+    left: 75%;
+    color: black;
+    font-family: Futura;
+    width: 300px;
+    font-size: 20px;
+}
+
+.boxreligion {
+    width: 1100px;
+    height: 120px;
+    position: absolute;
+    top: 4%;
+    left: 1%;
+}
+
+
+
+
+.box7 {
+     width: 1600px;
+     height: 1000px;
+     position: absolute;
+     top: 70%;
+     left: 89%;
+ } 
 
 .image7 {
     position: absolute;
-    top: 75%;
-    left: 93%;
+    top: 30%;
+    left: 33%;
     width: 1000px;
 }
+
+.image30 {
+    position: absolute;
+    top: 5%;
+    left: 7%;
+}
+
+.boxdovecote {
+    width: 1400px;
+    height: 120px;
+    position: absolute;
+    top: 60%;
+    left: 1%;
+}
+
+.boxlocations {
+    width: 1400px;
+    height: 120px;
+    position: absolute;
+    top:75%;
+    left: 1%;
+}
+
+.text7 {
+    position: absolute;
+    top: 5%;
+    left: 35%;
+    color: black;
+    font-family: Futura;
+    width: 350px;
+    font-size: 20px;
+}
+
+
+
+
+
+
 
 .image8 {
     position: absolute;
@@ -4363,12 +4437,6 @@ h3 {
     position: absolute;
     top: 59%;
     left: 51%;
-}
-
-.image30 {
-    position: absolute;
-    top: 70%;
-    left: 89%;
 }
 
 .image31 {
