@@ -3814,7 +3814,6 @@ h3 {
     top: 75%;
     left: 42%;
     z-index: 1;
-    width: 10%;
 }
 
 .votsalomountains {
@@ -4057,8 +4056,8 @@ h3 {
 
  
 .box1 {
-     width: 900;
-     height: 600;
+     width: 800px;
+     height: 400px;
      position: absolute;
      top: 25%;
      left: 10%;
@@ -4066,25 +4065,50 @@ h3 {
 
 .image1 {
     position: absolute;
-    top: 35%;
-    left: 30%;
+    top: 44%;
+    left: 50%;
 }
 
 .text1 {
     position: absolute;
     top: 40%;
-    left: 70%;
+    left: 30%;
     color: black;
     font-family: Futura;
     width: 150px;
 }
 
 
+.box2 {
+     width: 1500px;
+     height: 1000px;
+     position: absolute;
+     top: 80%;
+     left: 50%;
+ }
+
 .image2 {
     position: absolute;
-    top: 80%;
-    left: 54%;
+    top: 20%;
+    left: 30%;
 }
+
+.image10 {
+    position: absolute;
+    top: 50%;
+    left: 14%;
+}
+
+.text2 {
+    position: absolute;
+    top: 40%;
+    left: 30%;
+    color: black;
+    font-family: Futura;
+    width: 150px;
+}
+
+
 
 .image3 {
     position: absolute;
