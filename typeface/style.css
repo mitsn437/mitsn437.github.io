@@ -4532,14 +4532,61 @@ h3 {
 
 
 
-
-
+.box14 {
+     width: 1400px;
+     height: 800px;
+     position: absolute;
+     top: 43%;
+     left: 56%;
+}
 
 .image14 {
     position: absolute;
-    top: 43%;
-    left: 56%;
+    top: 48%;
+    left: 65%;
+    width: 1500px;
 }
+
+.text14 {
+    position: absolute;
+    top: 65%;
+    left: 15%;
+    color: black;
+    font-family: Futura;
+    width: 500px;
+    font-size: 20px;
+}
+
+.boxtraditional {
+    width: 1550px;
+    height: 120px;
+    position: absolute;
+    top: 1%;
+    left: 1%;
+}
+
+.boxcycladic3 {
+    width: 1550px;
+    height: 120px;
+    position: absolute;
+    top: 20%;
+    left: 1%;
+}
+
+.boxhouses {
+    width: 1550px;
+    height: 120px;
+    position: absolute;
+    top: 40%;
+    left: 1%;
+}
+
+
+
+
+
+
+
 
 .image15 {
     position: absolute;
