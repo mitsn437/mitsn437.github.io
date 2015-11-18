@@ -4054,16 +4054,17 @@ h3 {
 .image1 {
     position: absolute;
     top: 44%;
-    left: 50%;
+    left: 60%;
+    width: 1000px;
 }
 
 .text1 {
     position: absolute;
     top: 40%;
-    left: 30%;
+    left: 10%;
     color: black;
     font-family: Futura;
-    width: 150px;
+    width: 400px;
 }
 
 
@@ -4102,11 +4103,11 @@ h3 {
 
 .text2 {
     position: absolute;
-    top: 1%;
-    left: 15%;
+    top: 17%;
+    left: 10%;
     color: black;
     font-family: Futura;
-    width: 150px;
+    width: 400px;
 }
 
 
@@ -4153,8 +4154,9 @@ h3 {
 
 .image7 {
     position: absolute;
-    top: 74%;
-    left: 94%;
+    top: 75%;
+    left: 93%;
+    width: 1000px;
 }
 
 .image8 {
@@ -4173,6 +4175,7 @@ h3 {
     position: absolute;
     top: 10%;
     left: 38%;
+    width: 2000px;
 }
 
 .image12 {
@@ -4267,8 +4270,9 @@ h3 {
 
 .image27 {
     position: absolute;
-    top: 24%;
-    left: 90%;
+    top: 23%;
+    left: 89%;
+    width: 1000px;
 }
 
 .image28 {
@@ -4303,14 +4307,16 @@ h3 {
 
 .image33 {
     position: absolute;
-    top: 57%;
+    top: 58%;
     left: 91%;
+    width: 1000px;
 }
 
 .image34 {
     position: absolute;
     top: 85%;
     left: 95%;
+    width: 1000px;
 }
 
 .image35 {
