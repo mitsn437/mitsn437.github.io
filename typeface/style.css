@@ -4583,16 +4583,55 @@ h3 {
 
 
 
-
-
-
-
+.box15 {
+     width: 1300px;
+     height: 1000px;
+     position: absolute;
+     top: 35%;
+     left: 35%;
+}
 
 .image15 {
     position: absolute;
-    top: 35%;
+    top: 1%;
     left: 40%;
+    width: 1000px;
 }
+
+.boxlabyrinth {
+    width: 1550px;
+    height: 120px;
+    position: absolute;
+    top: 75%;
+    left: 1%;
+}
+
+.boxlayout {
+    width: 1550px;
+    height: 120px;
+    position: absolute;
+    top: 93%;
+    left: 15%;
+}
+
+.text15 {
+    position: absolute;
+    top: 20%;
+    left: 15%;
+    color: black;
+    font-family: Futura;
+    width: 250px;
+    font-size: 20px;
+}
+
+
+
+
+
+
+
+
+
 
 .image16 {
     position: absolute;
