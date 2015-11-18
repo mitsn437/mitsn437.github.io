@@ -4662,24 +4662,25 @@ h3 {
 
 
 .box17 {
-     width: 1300px;
-     height: 700px;
+     width: 1500px;
+     height: 900px;
      position: absolute;
-     top: 71%;
-     left: 23%;
+     top: 61%;
+     left: 20%;
 }
 
 .image17 {
     position: absolute;
-    top: 71%;
-    left: 23%;
+    top: 48%;
+    left: 17%;
+    width: 1000px;
 }
 
 .boxflourishing {
     width: 1550px;
     height: 120px;
     position: absolute;
-    top: 70%;
+    top: 10%;
     left: 1%;
 }
 
@@ -4687,14 +4688,14 @@ h3 {
     width: 1550px;
     height: 120px;
     position: absolute;
-    top: 70%;
+    top: 30%;
     left: 1%;
 }
 
 .text17 {
     position: absolute;
-    top: 10%;
-    left: 35%;
+    top: 50%;
+    left: 50%;
     color: black;
     font-family: Futura;
     width: 400px;
@@ -4703,20 +4704,51 @@ h3 {
 
 
 
-
-
-
+.box18 {
+     width: 1000px;
+     height: 900px;
+     position: absolute;
+     top: 12%;
+     left: 50%;
+}
 
 .image18 {
     position: absolute;
     top: 23%;
-    left: 48%;
+    left: 40%;
+    width: 1000px;
 }
+
+.text18 {
+    position: absolute;
+    top: 30%;
+    left: 1%;
+    color: black;
+    font-family: Futura;
+    width: 400px;
+    font-size: 20px;
+}
+
+.boxlight {
+    width: 1550px;
+    height: 120px;
+    position: absolute;
+    top: 5%;
+    left: 1%;
+}
+
+
+
+
+
+
+
+
 
 .image19 {
     position: absolute;
-    top: 58%;
-    left: 20%;
+    top: 53%;
+    left: 22%;
 }
 
 .image20 {
