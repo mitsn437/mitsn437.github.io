@@ -4643,7 +4643,7 @@ h3 {
 
 .text16 {
     position: absolute;
-    top: 1%;
+    top: 10%;
     left: 35%;
     color: black;
     font-family: Futura;
@@ -4661,13 +4661,51 @@ h3 {
 
 
 
-
+.box17 {
+     width: 1300px;
+     height: 700px;
+     position: absolute;
+     top: 71%;
+     left: 23%;
+}
 
 .image17 {
     position: absolute;
     top: 71%;
     left: 23%;
 }
+
+.boxflourishing {
+    width: 1550px;
+    height: 120px;
+    position: absolute;
+    top: 70%;
+    left: 1%;
+}
+
+.boxeconomy {
+    width: 1550px;
+    height: 120px;
+    position: absolute;
+    top: 70%;
+    left: 1%;
+}
+
+.text17 {
+    position: absolute;
+    top: 10%;
+    left: 35%;
+    color: black;
+    font-family: Futura;
+    width: 400px;
+    font-size: 20px;
+}
+
+
+
+
+
+
 
 .image18 {
     position: absolute;
