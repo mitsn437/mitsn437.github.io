@@ -38,9 +38,8 @@ h3 {
     width: 120px;
     height: 120px;
     background: #f1f1f1;
-    position: absolute;
-    top: 10px;
-    left: 10px;
+    display: inline-block;
+    position: relative;
 }
 
 .line1a {
@@ -169,9 +168,8 @@ h3 {
     width: 120px;
     height: 120px;
     background: #f1f1f1;
-    position: absolute;
-    top: 10px;
-    left: 140px;
+    display: inline-block;
+    position: relative;
 }
 
 .line1b {
@@ -311,9 +309,8 @@ h3 {
     width: 120px;
     height: 120px;
     background: #f1f1f1;
-    position: absolute;
-    top: 10px;
-    left: 270px;
+    display: inline-block;
+    position: relative;
 }
 
 .line1c {
@@ -463,9 +460,8 @@ h3 {
     width: 120px;
     height: 120px;
     background: #f1f1f1;
-    position: absolute;
-    top: 10px;
-    left: 400px;
+    display: inline-block;
+    position: relative;
 }
 
 .line1d {
@@ -705,9 +701,8 @@ h3 {
     width: 120px;
     height: 120px;
     background: #f1f1f1;
-    position: absolute;
-    top: 10px;
-    left: 530px;
+    display: inline-block;
+    position: relative;
 }
 
 .line1e {
@@ -826,9 +821,8 @@ h3 {
     width: 120px;
     height: 120px;
     background: #f1f1f1;
-    position: absolute;
-    top: 10px;
-    left: 660px;
+    display: inline-block;
+    position: relative;
 }
 
 .line1f {
@@ -958,9 +952,8 @@ h3 {
     width: 120px;
     height: 120px;
     background: #f1f1f1;
-    position: absolute;
-    top: 140px;
-    left: 10px;
+    display: inline-block;
+    position: relative;
 }
 
 .line1g {
@@ -1022,9 +1015,8 @@ h3 {
     width: 120px;
     height: 120px;
     background: #f1f1f1;
-    position: absolute;
-    top: 140px;
-    left: 140px;
+    display: inline-block;
+    position: relative;
 }
 
 .line1h {
@@ -1152,9 +1144,8 @@ h3 {
     width: 120px;
     height: 120px;
     background: #f1f1f1;
-    position: absolute;
-    top: 140px;
-    left: 270px;
+    display: inline-block;
+    position: relative;
 }
 
 .line1i {
@@ -1196,9 +1187,8 @@ h3 {
     width: 120px;
     height: 120px;
     background: #f1f1f1;
-    position: absolute;
-    top: 140px;
-    left: 400px;
+    display: inline-block;
+    position: relative;
 }
 
 .line1j {
@@ -1306,9 +1296,8 @@ h3 {
     width: 120px;
     height: 120px;
     background: #f1f1f1;
-    position: absolute;
-    top: 140px;
-    left: 530px;
+    display: inline-block;
+    position: relative;
 }
 
 .line1k {
@@ -1394,9 +1383,8 @@ h3 {
     width: 120px;
     height: 120px;
     background: #f1f1f1;
-    position: absolute;
-    top: 140px;
-    left: 660px;
+    display: inline-block;
+    position: relative;
 }
 
 .line1l {
@@ -1526,9 +1514,8 @@ h3 {
     width: 120px;
     height: 120px;
     background: #f1f1f1;
-    position: absolute;
-    top: 270px;
-    left: 10px;
+    display: inline-block;
+    position: relative;
 }
 
 .line1m {
@@ -1768,9 +1755,8 @@ h3 {
     width: 120px;
     height: 120px;
     background: #f1f1f1;
-    position: absolute;
-    top: 270px;
-    left: 140px;
+    display: inline-block;
+    position: relative;
 }
 
 .line1n {
@@ -1977,9 +1963,8 @@ h3 {
     width: 120px;
     height: 120px;
     background: #f1f1f1;
-    position: absolute;
-    top: 270px;
-    left: 270px;
+    display: inline-block;
+    position: relative;
 }
 
 .line1o {
@@ -2307,9 +2292,8 @@ h3 {
     width: 120px;
     height: 120px;
     background: #f1f1f1;
-    position: absolute;
-    top: 270px;
-    left: 400px;
+    display: inline-block;
+    position: relative;
 }
 
 .line1p {
@@ -2450,9 +2434,8 @@ h3 {
     width: 120px;
     height: 120px;
     background: #f1f1f1;
-    position: absolute;
-    top: 270px;
-    left: 530px;
+    display: inline-block;
+    position: relative;
 }
 
 .line1q {
@@ -2813,9 +2796,8 @@ h3 {
     width: 120px;
     height: 120px;
     background: #f1f1f1;
-    position: absolute;
-    top: 270px;
-    left: 660px;
+    display: inline-block;
+    position: relative;
 }
 
 .line1r {
@@ -2967,9 +2949,8 @@ h3 {
     width: 120px;
     height: 120px;
     background: #f1f1f1;
-    position: absolute;
-    top: 400px;
-    left: 10px;
+    display: inline-block;
+    position: relative;
 }
 
 .line1s {
@@ -3055,9 +3036,8 @@ h3 {
     width: 120px;
     height: 120px;
     background: #f1f1f1;
-    position: absolute;
-    top: 400px;
-    left: 140px;
+    display: inline-block;
+    position: relative;
 }
 
 .line1t {
@@ -3088,9 +3068,8 @@ h3 {
     width: 120px;
     height: 120px;
     background: #f1f1f1;
-    position: absolute;
-    top: 400px;
-    left: 270px;
+    display: inline-block;
+    position: relative;
 }
 
 .line1u {
@@ -3308,9 +3287,8 @@ h3 {
     width: 120px;
     height: 120px;
     background: #f1f1f1;
-    position: absolute;
-    top: 400px;
-    left: 400px;
+    display: inline-block;
+    position: relative;
 }
 
 .line1v {
@@ -3385,9 +3363,8 @@ h3 {
     width: 120px;
     height: 120px;
     background: #f1f1f1;
-    position: absolute;
-    top: 400px;
-    left: 530px;
+    display: inline-block;
+    position: relative;
 }
 
 .line1w {
@@ -3484,9 +3461,8 @@ h3 {
     width: 120px;
     height: 120px;
     background: #f1f1f1;
-    position: absolute;
-    top: 400px;
-    left: 660px;
+    display: inline-block;
+    position: relative;
 }
 
 .line1x {
@@ -3616,9 +3592,8 @@ h3 {
     width: 120px;
     height: 120px;
     background: #f1f1f1;
-    position: absolute;
-    top: 530px;
-    left: 10px;
+    display: inline-block;
+    position: relative;
 }
 
 .line1y {
@@ -3748,9 +3723,8 @@ h3 {
     width: 120px;
     height: 120px;
     background: #f1f1f1;
-    position: absolute;
-    top: 530px;
-    left: 140px;
+    display: inline-block;
+    position: relative;
 }
 
 .line1z {
@@ -3814,15 +3788,42 @@ h3 {
     left: 85px;
     width: 3px;
     height: 40px;
-    transform: rotate(95deg);
+    -webkit-transform: rotate(95deg);
     background-color: black;
     border-radius: 100px;
 }
 
 
+
+
+
+
 /*website.html*/
 
-/*mountains*/
+
+
+.votsalosea {
+    position: fixed;
+    top: 32%;
+    left: 20%;
+    z-index: 1;
+}
+
+.donkey {
+    position: fixed;
+    top: 50%;
+    left: 42%;
+    z-index: 1;
+}
+
+.votsalomountains {
+    position: fixed;
+    top: 50%;
+    left: 78%;
+    z-index: 1;
+}
+
+
 
 .wrapper {
     width: 8580px;
@@ -3832,6 +3833,8 @@ h3 {
 }
 
 
+
+/*mountains*/
 
 .mountainsbox {
     width: 700px;
@@ -4051,7 +4054,7 @@ h3 {
 }
     
 
-.image1 { /*done*/
+.image1 {
     position: absolute;
     top: 25%;
     left: 10%;
