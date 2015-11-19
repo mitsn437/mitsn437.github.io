@@ -3801,32 +3801,24 @@ h3 {
 /*website.html*/
 
 
-
-.votsalosea {
+.donkeytop {
     position: fixed;
-    top: 32%;
+    top: 75%;
     left: 20%;
     z-index: 1;
 }
 
-.donkey {
+.donkeybottom {
     position: fixed;
     top: 75%;
-    left: 42%;
-    z-index: 1;
-}
-
-.votsalomountains {
-    position: fixed;
-    top: 50%;
-    left: 78%;
+    left: 80%;
     z-index: 1;
 }
 
 
 
 .wrapper {
-    width: 85800px;
+    width: 8580px;
     height: 6660px;
     margin: 0 auto;
     position: relative;
