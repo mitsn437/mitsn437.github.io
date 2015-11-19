@@ -4894,9 +4894,6 @@ h3 {
 
 
 
-
-
-
 .box32 {
      width: 1300px;
      height: 1000px;
@@ -4938,18 +4935,102 @@ h3 {
     left: 10%;
 }
 
+
+
+
+.box34 {
+     width: 1800px;
+     height: 1000px;
+     position: absolute;
+     top: 90%;
+     left: 98%;
+}
+
 .image34 {
     position: absolute;
-    top: 85%;
-    left: 95%;
+    top: 45%;
+    left: 45%;
     width: 1000px;
+}
+
+.text34 {
+    position: absolute;
+    top: 60%;
+    left:10%;
+    color: black;
+    font-family: Futura;
+    width: 500px;
+    font-size: 20px;
+}
+
+.boxecclesiastical {
+    width: 1800px;
+    height: 120px;
+    position: absolute;
+    top: 1%;
+    left: 1%;
+}
+
+.boxarchitecture {
+    width: 1550px;
+    height: 120px;
+    position: absolute;
+    top: 25%;
+    left: 1%;
+}
+
+
+
+.box35 {
+     width: 1800px;
+     height: 1000px;
+     position: absolute;
+     top: 55%;
+     left: 1%;
 }
 
 .image35 {
     position: absolute;
-    top: 60%;
-    left: 5%;
+    top: 55%;
+    left: 1%;
+    width: 1300px;
 }
+
+.text35 {
+    position: absolute;
+    top: 60%;
+    left: 30%;
+    color: black;
+    font-family: Futura;
+    width: 500px;
+    font-size: 20px;
+}
+
+.boxmedieval {
+    width: 1100px;
+    height: 120px;
+    position: absolute;
+    top: 1%;
+    left: 1%;
+}
+
+.boxpirate {
+    width: 1000px;
+    height: 120px;
+    position: absolute;
+    top: 20%;
+    left: 1%;
+}
+
+.boxinvasions {
+    width: 1300px;
+    height: 120px;
+    position: absolute;
+    top: 35%;
+    left: 1%;
+}
+
+
 
 .image36 {
     position: absolute;
