@@ -4213,7 +4213,7 @@ h3 {
     left: 35%;
     color: black;
     font-family: Futura;
-    width: 800px;
+    width: 450px;
     font-size: 20px;
 }
 
@@ -4834,23 +4834,108 @@ h3 {
     left: 45%;
 }
 
-.image31 {
-    position: absolute;
-    top: 53%;
-    left: 87%;
+
+
+.box31 {
+     width: 1300px;
+     height: 900px;
+     position: absolute;
+     top: 53%;
+     left: 90%;
 }
 
-.image32 {
+.image31 {
     position: absolute;
-    top: 20%;
-    left: 65%;
+    top: 21%;
+    left: 9%;
+    width: 1000px;
 }
 
 .image33 {
     position: absolute;
-    top: 58%;
-    left: 91%;
+    top: 70%;
+    left: 45%;
     width: 1000px;
+}
+
+.text31 {
+    position: absolute;
+    top: 45%;
+    left: 48%;
+    color: black;
+    font-family: Futura;
+    width: 300px;
+    font-size: 20px;
+}
+
+.boxlack {
+    width: 1550px;
+    height: 120px;
+    position: absolute;
+    top: 1%;
+    left: 5%;
+}
+
+.boxof {
+    width: 1550px;
+    height: 120px;
+    position: absolute;
+    top: 1%;
+    left: 50%;
+}
+
+.boxwood {
+    width: 1550px;
+    height: 120px;
+    position: absolute;
+    top: 25%;
+    left: 40%;
+}
+
+
+
+
+
+
+.box32 {
+     width: 1300px;
+     height: 1000px;
+     position: absolute;
+     top: 1%;
+     left: 90%;
+}
+
+.image32 {
+    position: absolute;
+    top: 1%;
+    left: 70%;
+    width: 1000px;
+}
+
+.text32 {
+    position: absolute;
+    top: 15%;
+    left: 40%;
+    color: black;
+    font-family: Futura;
+    width: 250px;
+    font-size: 20px;
+}
+
+.boxdovecote2 {
+    width: 1550px;
+    height: 120px;
+    position: absolute;
+    top: 58%;
+    left: 18%;
+}
+
+.boxinfluence2 {
+    width: 1550px;
+    height: 120px;
+    position: absolute;
+    top: 75%;
+    left: 10%;
 }
 
 .image34 {
