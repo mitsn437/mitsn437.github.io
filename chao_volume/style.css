@@ -1,0 +1,14 @@
+@import url(http://fonts.googleapis.com/css?family=Oswald);
+
+body { 
+ 	font-family: 'Oswald', sans-serif;
+ 	color:#fff;
+ 	text-align: center;
+}
+
+#pullMe {
+	position: absolute;
+	right: 20px;
+	top:45%;
+}
+

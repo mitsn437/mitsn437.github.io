@@ -1,0 +1,66 @@
+div {
+  background-color: white;
+  text-align: center;
+  margin: auto 0;
+  margin-bottom: 20px;
+  font-family: Futura;
+  color: black;
+}
+
+.centered {
+  text-align: center;
+  margin: auto 0;
+  margin-bottom: 20px;
+}
+
+.center-title {
+  font-size: 30px;
+  margin-top: 10px;
+  color:#696969;
+}
+
+.names-header {
+  font-size: 15px;
+  margin-top: 30px;
+  margin-bottom: 15px;
+  color: rgb(245, 115, 115);
+}
+
+.logo {
+  width: 150px;
+  margin-top: 150px;
+  margin-bottom: 10px;
+
+}
+
+.smallImageForPoem {
+  width:300px;
+  height:300px;
+}
+
+.largeImageForPoem {
+  width:300px;
+  height:300px;
+}
+
+/*.smallpoem {
+  display: none;
+}
+
+.smallImageForPoem {
+  display: none;
+}
+
+@media only screen and (max-width : 900px) {
+    .smallpoem {
+      display: block;
+    }
+    
+    .largepoem {
+      display: none;
+    }
+
+    .largeImageForPoem{
+      display: none;
+    }
+}*/
