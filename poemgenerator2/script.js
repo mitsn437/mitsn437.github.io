@@ -58,6 +58,7 @@ function initializeView(){
 function updateView(){
 	// Adjust margins and displays on update
 	 $(".logo").css("display","none");
+	 $(".resize").css("display","none");
 	 $(".welcomeMessage").css("margin-bottom",50)
 
 	 // Get window width from helper function
