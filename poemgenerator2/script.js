@@ -2,22 +2,22 @@
 var GLOBAL = { 
 	largePairings : [
 		{"whale.png": ["His blood filled the whole sea,"," that is how big his body would be"]},
-		{"fatcat.jpg": ["He could not even swim in the sea,"," that is how big his body would be"]},
+		{"fatcat.png": ["He could not even swim in the sea,"," that is how big his body would be"]},
 		{"bear.png": ["A ship could only carry him in the sea,"," that is how big his body would be"]},
-		{"dog.jpg": ["He had such a big head", "maybe it was because he read"]},
-		{"argon.jpg": ["He had such a big head", "he found every book easy to be read"]},
-		{"rip.jpg": ["He had such a big head", "he could talk to the dead"]},
-		{"annoyed.jpg": ["He has such a big heart", "but don’t even make me start"]},
-		{"willy.jpg": ["He has such a big heart", "but he loves sugar more than art"]},
+		{"dog.png": ["He had such a big head", "maybe it was because he read"]},
+		{"argon.png": ["He had such a big head", "he found every book easy to be read"]},
+		{"rip.png": ["He had such a big head", "he could talk to the dead"]},
+		{"annoyed.png": ["He has such a big heart", "but don’t even make me start"]},
+		{"willy.png": ["He has such a big heart", "but he loves sugar more than art"]},
 		{"avocado.png": ["He has such a big heart","but I don’t know what to write in this part"]}
 	],
 	smallPairings : [
-		{"hill.jpg": ["She is thin", "because she went up a hill"]},
+		{"hill.png": ["She is thin", "because she went up a hill"]},
 		{"slim.png": ["She is thin", "because she can swim"]},
 		{"cactus.png": ["She is thin", "because she will not sit"]},
-		{"wall.jpg": ["His head is small", "since he hit a wall"]},
-		{"adriano.jpeg": ["His head is small", "since he will only play ball"]},
-		{"shaggy.jpg": ["His head is small", "since he is above all"]},
+		{"wall.png": ["His head is small", "since he hit a wall"]},
+		{"adriano.png": ["His head is small", "since he will only play ball"]},
+		{"shaggy.png": ["His head is small", "since he is above all"]},
 		{"graph.png": ["He might have a small heart", "but his experience was off the chart"]},
 		{"jeff.png": ["He might have a small heart", "but it was set on art"]},
 		{"greek.png":["He might have a small heart", "but he knew a lot about Greek art"]}

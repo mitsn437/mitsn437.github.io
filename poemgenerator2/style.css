@@ -43,6 +43,19 @@ div {
   height:300px;
 }
 
+
+.imageresize {
+    position: absolute;
+    top: 80%;
+    left: 80%;
+    width: 250px;
+}
+
+.resize { /*gia to resizing tis fotografias*/
+   max-width:35%;
+   max-height:35%;
+}
+
 /*.smallpoem {
   display: none;
 }
