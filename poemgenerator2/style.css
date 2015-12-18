@@ -4,7 +4,8 @@ div {
   margin: auto 0;
   margin-bottom: 20px;
   font-family: Futura;
-  color: purple;
+  color: rgb(255, 196, 58);
+  font-size: 23px;
 }
 
 .centered {
@@ -27,7 +28,7 @@ div {
 }
 
 .logo {
-  width: 150px;
+  width: 200px;
   margin-top: 150px;
   margin-bottom: 10px;
 
